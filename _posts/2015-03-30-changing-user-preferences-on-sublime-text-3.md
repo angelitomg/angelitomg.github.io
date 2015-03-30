@@ -1,6 +1,8 @@
 ---
+title: Changing User Preferences on Sublime Text 3
+layout: post
 ---
-## Changing user preferences on Sublime Text 3
+## Changing User Preferences on Sublime Text 3
 
 Sublime Text 3 is a fantastic text editor! To change user preferences, click on **Sublime Text > Preferences -> Settings - Default**.  
 
