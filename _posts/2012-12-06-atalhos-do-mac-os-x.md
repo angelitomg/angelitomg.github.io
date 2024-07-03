@@ -13,7 +13,7 @@ tags:
     - mac
 ---
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/12/atalhos_mac.png "atalhos_mac")](http://angelitomg.com/blog/wp-content/uploads/2012/12/atalhos_mac.png)Há quase um mês estrou trabalhando diariamente com um iMac. Junto com a mudança de ambiente vem também a mudança de costumes: os atalhos não são mais como os utilizados anteriormente. Junto com isto, veio a necessidade de criar uma lista com os pricipais atalhos utilizados no dia a dia. Segue a lista:
+[![](http://angelitomg.github.io/wp-content/uploads/2012/12/atalhos_mac.png "atalhos_mac")](http://angelitomg.github.io/wp-content/uploads/2012/12/atalhos_mac.png)Há quase um mês estrou trabalhando diariamente com um iMac. Junto com a mudança de ambiente vem também a mudança de costumes: os atalhos não são mais como os utilizados anteriormente. Junto com isto, veio a necessidade de criar uma lista com os pricipais atalhos utilizados no dia a dia. Segue a lista:
 
 Copiar arquivo -&gt; **Command + C**  
 Recortar arquivo -&gt; **Command + X**  

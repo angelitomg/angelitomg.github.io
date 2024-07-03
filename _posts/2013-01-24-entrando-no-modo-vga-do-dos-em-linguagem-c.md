@@ -19,6 +19,6 @@ tags:
 
 Neste post trago a vocês um script que mostra como entrar no modo **VGA** do **DOS** utilizando a linguagem C. O modo **VGA** é um modo utilizado antigamente (no tempo do **DOS**) para trabalhar com gráficos, cores, etc, visto que naquela época tudo não passava de uma tela preta.
 
-O script exibe uma quantidade de pixels de cores aleatórias em lugares aleatórios da tela. Ele pode ser baixado [AQUI](https://angelitomg.com/downloads/VGAMODE.zip) e deve ser compilado com o **DJGPP**.
+O script exibe uma quantidade de pixels de cores aleatórias em lugares aleatórios da tela. Ele pode ser baixado [AQUI](https://angelitomg.github.io/downloads/VGAMODE.zip) e deve ser compilado com o **DJGPP**.
 
 Até a próxima 😉

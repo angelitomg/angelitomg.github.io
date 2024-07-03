@@ -28,6 +28,6 @@ Para instalar o Tomcat 9 no Ubuntu Server 18.04.3 LTS, basta exeutar os seguinte
 
 Após isto, reinicie e máquina e acesse o endereço do seu servidor, seguido da porta 8080. No meu caso, o endereço foi 10.0.0.111:8080.
 
-<figure class="wp-block-image">![](http://angelitomg.com/blog/wp-content/uploads/2019/10/Captura-de-Tela-2019-10-06-às-12.32.19.png)</figure>Pronto, o Tomcat está instalado e funcionando! Para configurar os usuários do Tomcat, edite o arquivo **/etc/tomcat9/tomcat-users.xml**.
+<figure class="wp-block-image">![](http://angelitomg.github.io/wp-content/uploads/2019/10/Captura-de-Tela-2019-10-06-às-12.32.19.png)</figure>Pronto, o Tomcat está instalado e funcionando! Para configurar os usuários do Tomcat, edite o arquivo **/etc/tomcat9/tomcat-users.xml**.
 
 Até a próxima 😉

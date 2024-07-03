@@ -13,7 +13,7 @@ tags:
     - 'ovos de pascoa'
 ---
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/02/firefox.png "firefox")](http://angelitomg.com/blog/wp-content/uploads/2012/02/firefox.png)Ovos de páscoa ou Easter Eggs são funcionalidades desconhecidas que os programadores colocam em softwares, geralmente sem muita utilidade, apenas como uma brincadeira para quem achá-los.
+[![](http://angelitomg.github.io/wp-content/uploads/2012/02/firefox.png "firefox")](http://angelitomg.github.io/wp-content/uploads/2012/02/firefox.png)Ovos de páscoa ou Easter Eggs são funcionalidades desconhecidas que os programadores colocam em softwares, geralmente sem muita utilidade, apenas como uma brincadeira para quem achá-los.
 
 Existem muitos softwares famosos que possuem estes ovos de páscoa, inclusive o navegador Firefox. Experimente abrir o navegador e digitar na barra de endereço os seguintes endereços:
 

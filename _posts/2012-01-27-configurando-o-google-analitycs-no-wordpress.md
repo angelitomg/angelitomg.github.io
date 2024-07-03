@@ -13,7 +13,7 @@ tags:
     - wordpress
 ---
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/01/google-analytics-logo-1.png "google-analytics-logo-1")](http://angelitomg.com/blog/wp-content/uploads/2012/01/google-analytics-logo-1.png)O [Google Analytics](http://www.google.com.br/analytics/ "analytics") é um serviço do Google que permite gerar estatíscias detalhadas de um determinado domínio. É uma ferramenta poderosa e fornece relatórios completos de visitantes, origens do tráfego, etc.
+[![](http://angelitomg.github.io/wp-content/uploads/2012/01/google-analytics-logo-1.png "google-analytics-logo-1")](http://angelitomg.github.io/wp-content/uploads/2012/01/google-analytics-logo-1.png)O [Google Analytics](http://www.google.com.br/analytics/ "analytics") é um serviço do Google que permite gerar estatíscias detalhadas de um determinado domínio. É uma ferramenta poderosa e fornece relatórios completos de visitantes, origens do tráfego, etc.
 
 Para utiliza no WordPress é muito simples, vamos aos passos:
 

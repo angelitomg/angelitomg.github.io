@@ -41,6 +41,6 @@ https://192.168.0.90:9090
 
 Abaixo uma captura de tela da interface do Cockpit:
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-08-às-10.58.28-1024x602.png)](http://angelitomg.com/blog/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-08-às-10.58.28.png)
+[![](http://angelitomg.github.io/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-08-às-10.58.28-1024x602.png)](http://angelitomg.github.io/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-08-às-10.58.28.png)
 
 Até a próxima 😉

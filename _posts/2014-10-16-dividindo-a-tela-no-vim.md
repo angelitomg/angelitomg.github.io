@@ -24,6 +24,6 @@ Para dividir a janela verticalmente, ao invés de digitar **:split**, digite **:
 
 E para alternar entre as janelas abertas, basta pressionar **CTRL W** duas vezes.
 
-![Captura de tela de 2014-10-16 10:46:20](http://angelitomg.com/blog/wp-content/uploads/2014/10/Captura-de-tela-de-2014-10-16-104620.png)
+![Captura de tela de 2014-10-16 10:46:20](http://angelitomg.github.io/wp-content/uploads/2014/10/Captura-de-tela-de-2014-10-16-104620.png)
 
 Até a próxima 😉

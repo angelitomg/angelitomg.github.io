@@ -15,7 +15,7 @@ tags:
     - tdd
 ---
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/08/tdd.png "tdd")](http://angelitomg.com/blog/wp-content/uploads/2012/08/tdd.png)TDD (Test Driven Development ou Desenvolvimento Dirigido por Testes) é uma técnica de desenvolvimento na qual primeiros são escritos os testes, para depois o código em si. ([Você pode ler mais aqui](http://pt.wikipedia.org/wiki/Test_Driven_Development)). Já o [SimpleTest](http://www.simpletest.org/), é um framework escrito em PHP, utilizado para a criação de testes com PHP.
+[![](http://angelitomg.github.io/wp-content/uploads/2012/08/tdd.png "tdd")](http://angelitomg.github.io/wp-content/uploads/2012/08/tdd.png)TDD (Test Driven Development ou Desenvolvimento Dirigido por Testes) é uma técnica de desenvolvimento na qual primeiros são escritos os testes, para depois o código em si. ([Você pode ler mais aqui](http://pt.wikipedia.org/wiki/Test_Driven_Development)). Já o [SimpleTest](http://www.simpletest.org/), é um framework escrito em PHP, utilizado para a criação de testes com PHP.
 
 Para utilizar o SimpleTest, basta baixar o framework, descompactar e incluir o arquivo ‘**autorun.php**‘ no seu arquivo de testes. Vamos então criar o arquivo de testes:
 
@@ -73,12 +73,12 @@ Depois de criados os testes, vamos criar a classe que desejamos testar:
 > 
 > ?&gt;
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/08/tdd_php.png "tdd_php")](http://angelitomg.com/blog/wp-content/uploads/2012/08/tdd_php.png)
+[![](http://angelitomg.github.io/wp-content/uploads/2012/08/tdd_php.png "tdd_php")](http://angelitomg.github.io/wp-content/uploads/2012/08/tdd_php.png)
 
 Após isto, vamos executar nosso arquivo de testes. Será exibido uma mensagem informando que os testes passaram. Experimente agora colocar um número negativo como parâmetro no método **verificarNumero()** e uma mensagem diferente como parâmetro no método **escreverMensagem()**.
 
 Isto é só um pequeno exemplo do que o framework SimpleTest é capaz. Para ir mais a fundo, dê uma olhada no [site oficial](http://www.simpletest.org).
 
-Você pode baixar os arquivos do exemplo [AQUI](https://angelitomg.com/downloads/tdd_php.zip).
+Você pode baixar os arquivos do exemplo [AQUI](https://angelitomg.github.io/downloads/tdd_php.zip).
 
 Até a próxima 😉

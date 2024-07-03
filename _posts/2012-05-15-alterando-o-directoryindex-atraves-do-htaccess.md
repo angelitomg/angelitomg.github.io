@@ -12,7 +12,7 @@ tags:
     - apache
 ---
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/01/apache-logo.jpg "apache-logo")](http://angelitomg.com/blog/wp-content/uploads/2012/01/apache-logo.jpg)A diretiva **DirectoryIndex** do Apache é uma diretiva que define o arquivo padrão de um diretório. Ou seja, quando se acessa um determinado diretório sem especificar algum arquivo, o arquivo definido na diretiva DirectoryIndex será chamado.
+[![](http://angelitomg.github.io/wp-content/uploads/2012/01/apache-logo.jpg "apache-logo")](http://angelitomg.github.io/wp-content/uploads/2012/01/apache-logo.jpg)A diretiva **DirectoryIndex** do Apache é uma diretiva que define o arquivo padrão de um diretório. Ou seja, quando se acessa um determinado diretório sem especificar algum arquivo, o arquivo definido na diretiva DirectoryIndex será chamado.
 
 Se for definido mais de um arquivo e o primeiro arquivo definido não existir, o segundo será chamado e assim, sucessivamente. Isto é muito útil para alterar, por exemplo, a página inicial de um site, ao invés de utilizar os velhos index.php, index.html ou outro index qualquer, podemos utilizar inicio.html, home.php, etc.
 

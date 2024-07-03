@@ -14,7 +14,7 @@ tags:
     - programação
 ---
 
-[![curl_logo](http://angelitomg.com/blog/wp-content/uploads/2012/12/curl-refined.jpg)](http://angelitomg.com/blog/wp-content/uploads/2012/12/curl-refined.jpg)A biblioteca cURL é uma biblioteca com versões disponíveis para a maioria das linguagens de programação, utilizada para realizar a transferência de dados utilizando vários protocolos. Além de ser uma biblioteca, é também uma ferramenta de linha de comando, o que nos permite assim, utilizá-la diretamente do terminal, sem a necessidade de estar utilizando alguma linguagem.
+[![curl_logo](http://angelitomg.github.io/wp-content/uploads/2012/12/curl-refined.jpg)](http://angelitomg.github.io/wp-content/uploads/2012/12/curl-refined.jpg)A biblioteca cURL é uma biblioteca com versões disponíveis para a maioria das linguagens de programação, utilizada para realizar a transferência de dados utilizando vários protocolos. Além de ser uma biblioteca, é também uma ferramenta de linha de comando, o que nos permite assim, utilizá-la diretamente do terminal, sem a necessidade de estar utilizando alguma linguagem.
 
 A cURL oferece diversas opções e recursos, mas neste post vamos ver apenas como enviar dados via POST para uma página web. Para isto, suponho que você já esteja com a cURL instalada e funcionando. Instaladores e dicas de instalação podem serem encontradas através do [site oficial](http://curl.haxx.se/). Vamos ao que interessa:
 

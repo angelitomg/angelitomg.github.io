@@ -17,10 +17,10 @@ tags:
     - segurança
 ---
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/06/tumblr_m1lq5m3gPZ1qjf2m5.png "tumblr_m1lq5m3gPZ1qjf2m5")](http://angelitomg.com/blog/wp-content/uploads/2012/06/tumblr_m1lq5m3gPZ1qjf2m5.png)Neste post trago a vocês uma função capaz de gerar senhas aleatórias, escrita em PHP. A função possui apenas um parâmetro: o tamanho da senha a ser gerada. Para utilizá-la, basta chamar a função passando como parâmetro o tamanho da senha a ser gerada. Ela irá retornar a senha gerada. Se nenhum parâmetro for informado, ela irá gerar uma senha de 6 caracteres. A função gera senhas contendo letras maiúsculas e minúsculas e números.
+[![](http://angelitomg.github.io/wp-content/uploads/2012/06/tumblr_m1lq5m3gPZ1qjf2m5.png "tumblr_m1lq5m3gPZ1qjf2m5")](http://angelitomg.github.io/wp-content/uploads/2012/06/tumblr_m1lq5m3gPZ1qjf2m5.png)Neste post trago a vocês uma função capaz de gerar senhas aleatórias, escrita em PHP. A função possui apenas um parâmetro: o tamanho da senha a ser gerada. Para utilizá-la, basta chamar a função passando como parâmetro o tamanho da senha a ser gerada. Ela irá retornar a senha gerada. Se nenhum parâmetro for informado, ela irá gerar uma senha de 6 caracteres. A função gera senhas contendo letras maiúsculas e minúsculas e números.
 
 Para alterar os caracteres utilizados para gerar a senha, basta alterar o conteúdo da variável **$caracteres**. A função está totalmente comentada.
 
-Para baixar, basta clicar [AQUI](https://angelitomg.com/downloads/gerarSenha.zip).
+Para baixar, basta clicar [AQUI](https://angelitomg.github.io/downloads/gerarSenha.zip).
 
 Até a próxima 😉

@@ -19,6 +19,6 @@ Números primos são números que possuem apenas 2 divisores: o próprio número
 
 Estou disponibilizando aqui um código fonte em C, todo comentado, que verifica se um número digitado é primo ou não.
 
-O código pode ser baixado [AQUI](https://angelitomg.com/downloads/primo.c).
+O código pode ser baixado [AQUI](https://angelitomg.github.io/downloads/primo.c).
 
 Até a próxima 😉

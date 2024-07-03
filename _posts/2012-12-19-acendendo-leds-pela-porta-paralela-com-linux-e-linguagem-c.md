@@ -22,6 +22,6 @@ Neste post vou trazer pra vocês um script que desenvolvi há um tempo atrás, q
 
 No código fonte do script está o esquema de ligação dos leds na porta paralela.
 
-O script pode ser baixado [AQUI](https://angelitomg.com/downloads/led.c).
+O script pode ser baixado [AQUI](https://angelitomg.github.io/downloads/led.c).
 
 Até a próxima 😉

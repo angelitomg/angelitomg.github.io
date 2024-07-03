@@ -27,6 +27,6 @@ Com SSH é necessário a utilização de chaves e tudo mais. Já com HTTPS, a co
 
 `echo shell_exec('https://usuario:senha@bitbucket.org/usuario/repositorio.git');`
 
-Se você se interessou, pode pegar o script completo [AQUI](https://www.angelitomg.com/downloads/atualizar-git.zip).
+Se você se interessou, pode pegar o script completo [AQUI](https://www.angelitomg.github.io/downloads/atualizar-git.zip).
 
 Até a próxima 😉

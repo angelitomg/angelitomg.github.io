@@ -23,11 +23,11 @@ O Apache e o PHP já vem instalados por padrão no Mac OS X, porém desabilitado
 
 Clique em System Preferences e logo após clique no icone Sharing.
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/02/apache_mac_1.png "apache_mac_1")](http://angelitomg.com/blog/wp-content/uploads/2012/02/apache_mac_1.png)
+[![](http://angelitomg.github.io/wp-content/uploads/2012/02/apache_mac_1.png "apache_mac_1")](http://angelitomg.github.io/wp-content/uploads/2012/02/apache_mac_1.png)
 
 Marque a opção WEB Sharing. Pronto, o apache estará habilitado.
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/02/apache_mac_2.png "apache_mac_2")](http://angelitomg.com/blog/wp-content/uploads/2012/02/apache_mac_2.png)
+[![](http://angelitomg.github.io/wp-content/uploads/2012/02/apache_mac_2.png "apache_mac_2")](http://angelitomg.github.io/wp-content/uploads/2012/02/apache_mac_2.png)
 
 **2) Habilitando o PHP**
 
@@ -37,7 +37,7 @@ Abra-o e descomente a linha
 
 > LoadModule php5\_module libexec/apache2/libphp5.so
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/02/apache_mac_3.png "apache_mac_3")](http://angelitomg.com/blog/wp-content/uploads/2012/02/apache_mac_3.png)
+[![](http://angelitomg.github.io/wp-content/uploads/2012/02/apache_mac_3.png "apache_mac_3")](http://angelitomg.github.io/wp-content/uploads/2012/02/apache_mac_3.png)
 
 Após isto, basta reiniciar o servidor WEB e pronto, o Apache e o PHP já estarão em funcionamento!
 

@@ -26,6 +26,6 @@ Com o arquivo baixado, execute:
 
 Após isto o instalador será iniciado. Preencha as informações solicitadas e ao final o VestaCP estará instalado e funcionando.
 
-![vestacp-login](http://angelitomg.com/blog/wp-content/uploads/2014/11/vestacp-login-300x187.jpg)
+![vestacp-login](http://angelitomg.github.io/wp-content/uploads/2014/11/vestacp-login-300x187.jpg)
 
 Até a próxima 😉

@@ -17,6 +17,6 @@ O iGenda foi um sistema que desenvolvi em 2016 quando me formei na graduação d
 
 O sistema é realmente bem básico e o código fonte está disponível no Github. Junto com o sistema, um “hotsite” da aplicação também é disponibilizado. O sistema está disponível nos idiomas inglês e português.
 
-Você pode fazer o download do código [AQUI](https://angelitomg.com/downloads/iGenda.zip) ou acessar o repositório no [Github](https://github.com/angelitomg/iGenda).
+Você pode fazer o download do código [AQUI](https://angelitomg.github.io/downloads/iGenda.zip) ou acessar o repositório no [Github](https://github.com/angelitomg/iGenda).
 
 Até a próxima 😉

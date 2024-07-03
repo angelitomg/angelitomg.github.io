@@ -17,7 +17,7 @@ tags:
 
 Uma forma rápida e fácil de acessar seu computador com o OS X Yosemite remotamente é via SSH. Para ativar o acesso SSH no OS X, abra o menu **Preferências do sistema &gt; Compartilhamento** e marque a opção **Acesso Remoto**.
 
-[![Captura de Tela 2015-03-26 às 23.09.23](http://angelitomg.com/blog/wp-content/uploads/2015/03/Captura-de-Tela-2015-03-26-às-23.09.23-300x250.png)](http://angelitomg.com/blog/wp-content/uploads/2015/03/Captura-de-Tela-2015-03-26-às-23.09.23.png)
+[![Captura de Tela 2015-03-26 às 23.09.23](http://angelitomg.github.io/wp-content/uploads/2015/03/Captura-de-Tela-2015-03-26-às-23.09.23-300x250.png)](http://angelitomg.github.io/wp-content/uploads/2015/03/Captura-de-Tela-2015-03-26-às-23.09.23.png)
 
 No menu ao lado, você pode definir os usuários que terão direito a acessar o sistema via SSH.
 

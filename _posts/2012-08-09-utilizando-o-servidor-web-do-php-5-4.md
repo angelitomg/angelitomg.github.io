@@ -24,7 +24,7 @@ O servidor estará rodando em localhost, na porta 8000 e seu document root será
 
 > php -S localhost:8000 -t c:\\web
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/08/phpinfo.png "phpinfo")](http://angelitomg.com/blog/wp-content/uploads/2012/08/phpinfo.png)
+[![](http://angelitomg.github.io/wp-content/uploads/2012/08/phpinfo.png "phpinfo")](http://angelitomg.github.io/wp-content/uploads/2012/08/phpinfo.png)
 
 Pronto, o PHP estará pronto para uso. Para parar o servidor, basta pressionar **ctrl+c** no terminal. **Atenção:** o uso deste servidor é recomendado somente para testes!
 

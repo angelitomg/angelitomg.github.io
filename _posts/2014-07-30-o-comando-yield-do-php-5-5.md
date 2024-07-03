@@ -66,6 +66,6 @@ No primeiro exemplo, os dados são retornados instantaneamente. Já no segundo e
 
 É claro que neste cenário não haverá muito ganho de desempenho, pois estamos trabalhando com poucos elementos, porém com uma grande quantidade de dados, o uso do comando yield irá trazer uma boa economia de memória.
 
-O arquivo com os exemplos deste post pode ser baixado [AQUI](https://www.angelitomg.com/downloads/exemplo-yield-php.zip).
+O arquivo com os exemplos deste post pode ser baixado [AQUI](https://www.angelitomg.github.io/downloads/exemplo-yield-php.zip).
 
 Até a próxima 😉

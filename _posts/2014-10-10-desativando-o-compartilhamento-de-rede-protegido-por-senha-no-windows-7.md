@@ -19,14 +19,14 @@ Para desativar a proteção por senha do compartilhamento de rede do Windows 7, 
 
 No Painel de Controle, clique sobre a opção **Escolher opções de grupo doméstico e compartilhamento**.
 
-![img1](http://angelitomg.com/blog/wp-content/uploads/2014/10/img1-e1412963540294.png)
+![img1](http://angelitomg.github.io/wp-content/uploads/2014/10/img1-e1412963540294.png)
 
 Na tela a seguir, clique em **Alterar as configurações de compartilhamento avançadas…**
 
-![img2](http://angelitomg.com/blog/wp-content/uploads/2014/10/img2-e1412963675727.png)
+![img2](http://angelitomg.github.io/wp-content/uploads/2014/10/img2-e1412963675727.png)
 
-Por fim, procure pela opção **Desativar compartilhamento protegido por senha** e clique em **Salvar Alterações**.[  ](http://angelitomg.com/blog/wp-content/uploads/2014/10/img1-e1412963540294.png)
+Por fim, procure pela opção **Desativar compartilhamento protegido por senha** e clique em **Salvar Alterações**.[  ](http://angelitomg.github.io/wp-content/uploads/2014/10/img1-e1412963540294.png)
 
-![img3](http://angelitomg.com/blog/wp-content/uploads/2014/10/img3-e1412963780392.png)
+![img3](http://angelitomg.github.io/wp-content/uploads/2014/10/img3-e1412963780392.png)
 
 Até a próxima 😉

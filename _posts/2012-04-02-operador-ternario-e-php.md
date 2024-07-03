@@ -14,7 +14,7 @@ tags:
     - php
 ---
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/04/ternary_operator.png "ternary_operator")](http://angelitomg.com/blog/wp-content/uploads/2012/04/ternary_operator.png)O PHP, assim como outras linguagens de programação, oferece um recurso muito útil e prático: o operador ternário. O operador ternário permite que seja realizada uma verificação e logo em seguida define suas ações caso a condição seja verdadeira e falsa, tudo isso em apenas uma linha. Em outras palavras pode ser chamado de “IF de uma linha”.
+[![](http://angelitomg.github.io/wp-content/uploads/2012/04/ternary_operator.png "ternary_operator")](http://angelitomg.github.io/wp-content/uploads/2012/04/ternary_operator.png)O PHP, assim como outras linguagens de programação, oferece um recurso muito útil e prático: o operador ternário. O operador ternário permite que seja realizada uma verificação e logo em seguida define suas ações caso a condição seja verdadeira e falsa, tudo isso em apenas uma linha. Em outras palavras pode ser chamado de “IF de uma linha”.
 
 A sintaxe do operador ternário é a seguinte:
 

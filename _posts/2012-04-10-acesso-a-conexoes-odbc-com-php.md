@@ -15,7 +15,7 @@ tags:
     - php
 ---
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/04/odbc.gif "odbc")](http://angelitomg.com/blog/wp-content/uploads/2012/04/odbc.gif)ODBC (Open Data Base Conectivity) é um padrão para acesso a banco de dados. Através do ODBC, podemos acessar diversas bases de dados, com diferentes linguagens de programação, utilizando uma única API.
+[![](http://angelitomg.github.io/wp-content/uploads/2012/04/odbc.gif "odbc")](http://angelitomg.github.io/wp-content/uploads/2012/04/odbc.gif)ODBC (Open Data Base Conectivity) é um padrão para acesso a banco de dados. Através do ODBC, podemos acessar diversas bases de dados, com diferentes linguagens de programação, utilizando uma única API.
 
 Neste post vou mostrar como se conectar a um banco de dados utilizando ODBC através do PHP.
 
@@ -91,6 +91,6 @@ Após realizar todas as operações, vamos fechar a nossa conexão. Para isto, u
 > 
 > ?&gt;
 
-O código completo juntamente com o banco de dados pode ser baixado [AQUI](https://angelitomg.com/downloads/php_odbc.zip).
+O código completo juntamente com o banco de dados pode ser baixado [AQUI](https://angelitomg.github.io/downloads/php_odbc.zip).
 
 Simples assim! Até a próxima 😉

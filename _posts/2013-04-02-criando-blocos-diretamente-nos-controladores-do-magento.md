@@ -15,7 +15,7 @@ tags:
     - magento
 ---
 
-[![1364931728_Cart_by_Artdesigner.lv](http://angelitomg.com/blog/wp-content/uploads/2013/04/1364931728_Cart_by_Artdesigner.lv_.png)](http://angelitomg.com/blog/wp-content/uploads/2013/04/1364931728_Cart_by_Artdesigner.lv_.png)Criar um bloco no Magento é uma tarefa trabalhosa, sendo que muitas vezes precisamos de algo rápido na qual não vale a pena passar por todo o trabalho de criação de um bloco. Podemos então criar um bloco diretamente no controlador e adicionar HTML nele. Para isto, basta utilizar os seguintes comandos:
+[![1364931728_Cart_by_Artdesigner.lv](http://angelitomg.github.io/wp-content/uploads/2013/04/1364931728_Cart_by_Artdesigner.lv_.png)](http://angelitomg.github.io/wp-content/uploads/2013/04/1364931728_Cart_by_Artdesigner.lv_.png)Criar um bloco no Magento é uma tarefa trabalhosa, sendo que muitas vezes precisamos de algo rápido na qual não vale a pena passar por todo o trabalho de criação de um bloco. Podemos então criar um bloco diretamente no controlador e adicionar HTML nele. Para isto, basta utilizar os seguintes comandos:
 
 `$this->loadLayout();`
 

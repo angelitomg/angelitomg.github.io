@@ -20,6 +20,6 @@ Geralmente eu não me sinto confortável com esta abordagem. Acho muito melhor q
 
 Agora é só alterar a opção “**As novas janelas do Finder mostram:**“.
 
-[![Captura de Tela 2015-04-02 às 08.37.12](http://angelitomg.com/blog/wp-content/uploads/2015/04/Captura-de-Tela-2015-04-02-às-08.37.12-241x300.png)](http://angelitomg.com/blog/wp-content/uploads/2015/04/Captura-de-Tela-2015-04-02-às-08.37.12.png)
+[![Captura de Tela 2015-04-02 às 08.37.12](http://angelitomg.github.io/wp-content/uploads/2015/04/Captura-de-Tela-2015-04-02-às-08.37.12-241x300.png)](http://angelitomg.github.io/wp-content/uploads/2015/04/Captura-de-Tela-2015-04-02-às-08.37.12.png)
 
 Até a próxima 😉

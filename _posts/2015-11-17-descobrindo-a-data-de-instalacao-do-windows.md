@@ -22,6 +22,6 @@ Para isto, abra o prompt de comando e digite o seguinte comando:
 
 O comando acima exibirá MUITAS informações sobre o computador, por este motivo, utilizamos o comando **| more**, que irá mostrar o resultado do comando conforme o usuário for pressionando enter. A data de instalação encontra-se na linha “**Data da instalação original:**”
 
-[![systeminfo](http://angelitomg.com/blog/wp-content/uploads/2015/11/systeminfo.png)](http://angelitomg.com/blog/wp-content/uploads/2015/11/systeminfo.png)
+[![systeminfo](http://angelitomg.github.io/wp-content/uploads/2015/11/systeminfo.png)](http://angelitomg.github.io/wp-content/uploads/2015/11/systeminfo.png)
 
 Até a próxima 😉

@@ -14,7 +14,7 @@ tags:
     - dosbox
 ---
 
-[![dosbox](http://angelitomg.com/blog/wp-content/uploads/2013/01/DOSBox_Logo.png)](http://angelitomg.com/blog/wp-content/uploads/2013/01/DOSBox_Logo.png)O DOSBox é um software que permite emular um ambiente **DOS** de modo quase perfeito. Já o **DJGPP** é um compilador muito utilizado no sistemas DOS. Neste post vamos ver como instalar de forma rápida e fácil o DJGPP dentro do DOSBox. Vamos então a instalação:
+[![dosbox](http://angelitomg.github.io/wp-content/uploads/2013/01/DOSBox_Logo.png)](http://angelitomg.github.io/wp-content/uploads/2013/01/DOSBox_Logo.png)O DOSBox é um software que permite emular um ambiente **DOS** de modo quase perfeito. Já o **DJGPP** é um compilador muito utilizado no sistemas DOS. Neste post vamos ver como instalar de forma rápida e fácil o DJGPP dentro do DOSBox. Vamos então a instalação:
 
 Primeiro, acesse [este link](http://www.delorie.com/djgpp/zip-picker.html) e baixe o DJGPP. É importante que na parte de seleção de sistema operacional, você selecione **MS-DOS, OpenDOS, PC-DOS**.
 

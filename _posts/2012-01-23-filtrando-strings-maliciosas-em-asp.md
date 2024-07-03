@@ -31,6 +31,6 @@ Apresento aqui uma função para filtrar strings contra os principais caracteres
 > filtrarTexto = str  
 > End Function
 
-Você pode baixar o arquivo [AQUI](https://angelitomg.com/downloads/filtrarTexto.zip).
+Você pode baixar o arquivo [AQUI](https://angelitomg.github.io/downloads/filtrarTexto.zip).
 
 Até a próxima 😉

@@ -13,7 +13,7 @@ tags:
     - programação
 ---
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/02/Document-Code-PHP-Error.jpg "Document Code PHP Error")](http://angelitomg.com/blog/wp-content/uploads/2012/02/Document-Code-PHP-Error.jpg)Uma forma mais profissional de se exibir erros em aplicações PHP é através da função **trigger\_error()**. Esta função lança um erro personalizado, definido pelo usuário, da mesma forma que são exibidos os erros do PHP.
+[![](http://angelitomg.github.io/wp-content/uploads/2012/02/Document-Code-PHP-Error.jpg "Document Code PHP Error")](http://angelitomg.github.io/wp-content/uploads/2012/02/Document-Code-PHP-Error.jpg)Uma forma mais profissional de se exibir erros em aplicações PHP é através da função **trigger\_error()**. Esta função lança um erro personalizado, definido pelo usuário, da mesma forma que são exibidos os erros do PHP.
 
 Através dessa função, podemos definir 3 tipos básicos de erros:
 

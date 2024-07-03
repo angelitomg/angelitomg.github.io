@@ -17,7 +17,7 @@ Muitos programas são configurados para iniciarem automaticamente durante o carr
 
 Uma forma de reduzir o tempo de inicialização, é removendo alguns aplicativos desnecessários que iniciem junto com o WIndows. Para ativar ou desativar estes aplicativos, abra o prompt **Executar**, pressionando a **tecla Windows** e logo em seguida a **letra R**.
 
-[![executar-msconfig](http://angelitomg.com/blog/wp-content/uploads/2015/11/executar-msconfig.jpg)](http://angelitomg.com/blog/wp-content/uploads/2015/11/executar-msconfig.jpg)
+[![executar-msconfig](http://angelitomg.github.io/wp-content/uploads/2015/11/executar-msconfig.jpg)](http://angelitomg.github.io/wp-content/uploads/2015/11/executar-msconfig.jpg)
 
 No prompt que aparecer, digite **msconfig** e em seguida pressione **OK**. Clique na aba **Inicialização de Programas** e desmarque os programas que desejar. Em seguida, clique no botão **OK**.
 

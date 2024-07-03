@@ -33,6 +33,6 @@ Para exibir a diferença, basta usar o método **format**.
 
 `echo 'Diferenca em dias  -> ' . $diferenca->format("%a dias!");`
 
-O script completo pode ser baixado [AQUI](https://angelitomg.com/downloads/diferenca_datas_php.zip).
+O script completo pode ser baixado [AQUI](https://angelitomg.github.io/downloads/diferenca_datas_php.zip).
 
 Até a próxima 😉

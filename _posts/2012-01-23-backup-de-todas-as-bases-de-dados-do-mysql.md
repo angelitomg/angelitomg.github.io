@@ -27,6 +27,6 @@ Eai galera, apresento-lhes um script simples para realização do backup de toda
 
 Para configurá-lo basta alterar o local do backup, o usuario e a senha do usuário do MySQL.
 
-Você pode baixar o arquivo [AQUI](https://angelitomg.com/downloads/backup_mysql.zip).
+Você pode baixar o arquivo [AQUI](https://angelitomg.github.io/downloads/backup_mysql.zip).
 
 Até a próxima 😉

@@ -39,6 +39,6 @@ Após isto, basta chamar a função e obter a resposta:
 
 `$resposta = file_get_contents('http://url_de_teste/teste.php', null, $contexto);`
 
-Um exemplo completo pode ser baixado [AQUI](https://angelitomg.com/downloads/file_get_contents_post.zip).
+Um exemplo completo pode ser baixado [AQUI](https://angelitomg.github.io/downloads/file_get_contents_post.zip).
 
 Até a próxima 😉

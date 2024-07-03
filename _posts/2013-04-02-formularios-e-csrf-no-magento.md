@@ -16,7 +16,7 @@ tags:
     - magento
 ---
 
-[![1364931728_Cart_by_Artdesigner.lv](http://angelitomg.com/blog/wp-content/uploads/2013/04/1364931728_Cart_by_Artdesigner.lv_.png)](http://angelitomg.com/blog/wp-content/uploads/2013/04/1364931728_Cart_by_Artdesigner.lv_.png)O Magento utiliza em seus formulários uma chave que serve de proteção contra ataques do tipo **CSRF**. Portanto se for necessário enviar um formulário para o Magento e este não tiver esta chave atualizada, o formulário não é aceito. Para obter esta chave, utilize o comando no controlador:
+[![1364931728_Cart_by_Artdesigner.lv](http://angelitomg.github.io/wp-content/uploads/2013/04/1364931728_Cart_by_Artdesigner.lv_.png)](http://angelitomg.github.io/wp-content/uploads/2013/04/1364931728_Cart_by_Artdesigner.lv_.png)O Magento utiliza em seus formulários uma chave que serve de proteção contra ataques do tipo **CSRF**. Portanto se for necessário enviar um formulário para o Magento e este não tiver esta chave atualizada, o formulário não é aceito. Para obter esta chave, utilize o comando no controlador:
 
 `$formKey = Mage::getSingleton('core/session')->getFormKey();`
 

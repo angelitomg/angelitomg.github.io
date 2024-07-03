@@ -14,7 +14,7 @@ tags:
     - apache
 ---
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/01/apache-logo.jpg "apache-logo")](http://angelitomg.com/blog/wp-content/uploads/2012/01/apache-logo.jpg)O Apache é um dos servidores WEB mais populares do mundo. Isto se deve a sua segurança, estabilidade, licença e também as suas mais diversas funcionalidades.
+[![](http://angelitomg.github.io/wp-content/uploads/2012/01/apache-logo.jpg "apache-logo")](http://angelitomg.github.io/wp-content/uploads/2012/01/apache-logo.jpg)O Apache é um dos servidores WEB mais populares do mundo. Isto se deve a sua segurança, estabilidade, licença e também as suas mais diversas funcionalidades.
 
 Dentre elas, temos a possibilidade de proteger um diretório com senha através da criação de um arquivo .htaccess personalizado.
 

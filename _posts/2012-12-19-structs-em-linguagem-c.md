@@ -40,6 +40,6 @@ Para acessar os dados da variável cliente1, utilizamos o nome da variável, seg
 
 `printf("%d", cliente1.nome);`
 
-Um script completo contendo um exemplo comentado sobre structs pode ser acessado [AQUI](https://angelitomg.com/downloads/exemplo_struct.c).
+Um script completo contendo um exemplo comentado sobre structs pode ser acessado [AQUI](https://angelitomg.github.io/downloads/exemplo_struct.c).
 
 Até a próxima 😉

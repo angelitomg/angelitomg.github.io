@@ -13,7 +13,7 @@ tags:
     - apache
 ---
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/01/apache-logo.jpg "apache-logo")](http://angelitomg.com/blog/wp-content/uploads/2012/01/apache-logo.jpg)A listagem de diretórios é um recurso que permite ao visitante, visualizar todo o conteúdo de um determinado diretório do servidor WEB através do browser, se este não conter um arquivo de índice. Este recurso é bom por um lado, porém automaticamente abre brechas, pois acaba expondo todos os arquivos de um determinado diretório para qualquer visitante que chegar ao seu site.
+[![](http://angelitomg.github.io/wp-content/uploads/2012/01/apache-logo.jpg "apache-logo")](http://angelitomg.github.io/wp-content/uploads/2012/01/apache-logo.jpg)A listagem de diretórios é um recurso que permite ao visitante, visualizar todo o conteúdo de um determinado diretório do servidor WEB através do browser, se este não conter um arquivo de índice. Este recurso é bom por um lado, porém automaticamente abre brechas, pois acaba expondo todos os arquivos de um determinado diretório para qualquer visitante que chegar ao seu site.
 
 Para corrigir isto, existem duas formas:
 

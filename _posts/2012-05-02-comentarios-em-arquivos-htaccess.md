@@ -12,7 +12,7 @@ tags:
     - apache
 ---
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/01/apache-logo.jpg "apache-logo")](http://angelitomg.com/blog/wp-content/uploads/2012/01/apache-logo.jpg)Arquivos .htaccess são arquivos utilizados pelo Apache, onde por meio destes, é possível aplicar determinadas configurações ao diretório em que ele se encontra, permitindo personalizar opções do servidor para cada diretório. Porém em muitos casos, o arquivo fica longo e a chance de se perder ou esquecer para que uma determinada linha serve, é grande. Uma forma de resolver isto é adicionar comentários nas seções do arquivo, facilitando assim a manutenção do arquivo.
+[![](http://angelitomg.github.io/wp-content/uploads/2012/01/apache-logo.jpg "apache-logo")](http://angelitomg.github.io/wp-content/uploads/2012/01/apache-logo.jpg)Arquivos .htaccess são arquivos utilizados pelo Apache, onde por meio destes, é possível aplicar determinadas configurações ao diretório em que ele se encontra, permitindo personalizar opções do servidor para cada diretório. Porém em muitos casos, o arquivo fica longo e a chance de se perder ou esquecer para que uma determinada linha serve, é grande. Uma forma de resolver isto é adicionar comentários nas seções do arquivo, facilitando assim a manutenção do arquivo.
 
 Para adicionar um comentário, basta adicionar o sustenido “#” ao ínicio da linha que se deseja comentar. Exemplo:
 

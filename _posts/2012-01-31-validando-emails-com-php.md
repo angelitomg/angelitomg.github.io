@@ -62,6 +62,6 @@ Primeiro, recebemos o email. Verificamos se é um email válido através da fun�
 
 O resultado da função é que se o email realmente for válido, retorna TRUE, caso contrário, retorna FALSE. Lembrando que se desejar realizar uma validação mais completa, o jeito é utilizar um email de verificação, onde o sistema envia um email para o usuário com um token de verificação e o usuário então tem que acessar uma página que faz a validação do token enviado
 
-Você pode baixar a função [AQUI](https://angelitomg.com/downloads/verificaEmail.zip).
+Você pode baixar a função [AQUI](https://angelitomg.github.io/downloads/verificaEmail.zip).
 
 Até a próxima 😉

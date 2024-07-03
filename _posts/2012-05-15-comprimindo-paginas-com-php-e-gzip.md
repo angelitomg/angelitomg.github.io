@@ -15,7 +15,7 @@ tags:
     - programação
 ---
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/05/php-gzip.jpg "php-gzip")](http://angelitomg.com/blog/wp-content/uploads/2012/05/php-gzip.jpg)Uma forma de diminuir o consumo de banda e aumentar o desempenho de um site é compactar o conteúdo de suas páginas, de forma que seu tamanho seja reduzido sem que ocorra perda no conteúdo. Isto pode ser feito de diferentes maneiras, neste post, vou mostrar como fazer isto utilizando PHP e Gzip.
+[![](http://angelitomg.github.io/wp-content/uploads/2012/05/php-gzip.jpg "php-gzip")](http://angelitomg.github.io/wp-content/uploads/2012/05/php-gzip.jpg)Uma forma de diminuir o consumo de banda e aumentar o desempenho de um site é compactar o conteúdo de suas páginas, de forma que seu tamanho seja reduzido sem que ocorra perda no conteúdo. Isto pode ser feito de diferentes maneiras, neste post, vou mostrar como fazer isto utilizando PHP e Gzip.
 
 Para compactar o conteúdo de suas páginas, basta adicionar a seguinte linha do topo do script. Lembre-se, esta deve ser a **PRIMEIRA** linha do script:
 

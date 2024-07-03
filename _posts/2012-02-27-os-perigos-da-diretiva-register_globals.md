@@ -16,7 +16,7 @@ tags:
     - segurança
 ---
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/02/Document-Code-PHP-Error.jpg "Document Code PHP Error")](http://angelitomg.com/blog/wp-content/uploads/2012/02/Document-Code-PHP-Error.jpg)A diretiva register\_globals, presente no PHP, quando ativada, faz com que todos os índices presentes nos arrays superglobais $\_POST, $\_GET, $\_COOKIE, $\_SESSION $\_SERVER, se tornem automaticamente variáveis dentro do seu script. Antigamente, isto era utilizado por diversos programadores, pois evita o trabalho de atribuição das variáveis.
+[![](http://angelitomg.github.io/wp-content/uploads/2012/02/Document-Code-PHP-Error.jpg "Document Code PHP Error")](http://angelitomg.github.io/wp-content/uploads/2012/02/Document-Code-PHP-Error.jpg)A diretiva register\_globals, presente no PHP, quando ativada, faz com que todos os índices presentes nos arrays superglobais $\_POST, $\_GET, $\_COOKIE, $\_SESSION $\_SERVER, se tornem automaticamente variáveis dentro do seu script. Antigamente, isto era utilizado por diversos programadores, pois evita o trabalho de atribuição das variáveis.
 
 A partir da versão 4.2.0 do PHP, esta diretiva vem desabilitada por padrão, pois as facilidades providas por ela, contribuem para que programadores iniciantes e desavisados cometam falhas de seguranças em seus códigos. A partir da versão 5.3, esta diretiva é considerada obsoleta e a partir da versão 5.4 ela não está mais presente.
 

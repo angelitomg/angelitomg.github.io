@@ -13,7 +13,7 @@ tags:
     - http
 ---
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/01/http.jpg "http")](http://angelitomg.com/blog/wp-content/uploads/2012/01/http.jpg)Neste post vou mostrar a voces, os principais códigos de resposta enviados pelo HTTP (sabe o famoso erro 404?). Quando solicitamos algum arquivo ou página através do protocolo HTTP, ele nos envia códigos de resposta, onde constam o status atual da nossa requisição. Eles são divididos em 5 grupos:
+[![](http://angelitomg.github.io/wp-content/uploads/2012/01/http.jpg "http")](http://angelitomg.github.io/wp-content/uploads/2012/01/http.jpg)Neste post vou mostrar a voces, os principais códigos de resposta enviados pelo HTTP (sabe o famoso erro 404?). Quando solicitamos algum arquivo ou página através do protocolo HTTP, ele nos envia códigos de resposta, onde constam o status atual da nossa requisição. Eles são divididos em 5 grupos:
 
 **1xx Informações**
 

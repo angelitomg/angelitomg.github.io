@@ -22,12 +22,12 @@ Foi desenvolvido para ser prático e de fácil instalação. Para ter o DirtyCMS
 
 Depois de copiado, basta acessar o arquivo **backend.php**. Neste único arquivo, está toda a administração do CMS.
 
-[![dirtycms01](http://angelitomg.com/blog/wp-content/uploads/2015/02/dirtycms01-300x109.png)](http://angelitomg.com/blog/wp-content/uploads/2015/02/dirtycms01.png)
+[![dirtycms01](http://angelitomg.github.io/wp-content/uploads/2015/02/dirtycms01-300x109.png)](http://angelitomg.github.io/wp-content/uploads/2015/02/dirtycms01.png)
 
 Para consultar os dados inseridos no DirtyCMS, dê um include no arquivo **frontend.php** e utilize as funções de consulta.
 
 Você saberá como utilizar as funções de consulta apenas lendo o código fonte do arquivo **frontend.php**. Os comentários estão em inglês, mas qualquer pessoa com conhecimentos básicos conseguirá entender.
 
-O DirtyCMS pode ser baixado [AQUI](https://angelitomg.com/downloads/DirtyCMS-master.zip). Você também pode contribuir acessando o [repositório oficial](http://github.com/angelitomg/DirtyCMS).
+O DirtyCMS pode ser baixado [AQUI](https://angelitomg.github.io/downloads/DirtyCMS-master.zip). Você também pode contribuir acessando o [repositório oficial](http://github.com/angelitomg/DirtyCMS).
 
 Até a próxima 😉

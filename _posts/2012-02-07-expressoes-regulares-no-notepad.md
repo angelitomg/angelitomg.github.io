@@ -13,7 +13,7 @@ tags:
     - notepad++
 ---
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/02/notepad-team.png "notepad-team")](http://angelitomg.com/blog/wp-content/uploads/2012/02/notepad-team.png)O [Notepad++](http://notepad-plus-plus.org) é um poderoso editor de textos utilizado por muitos programadores. Devido a sua interface limpa, sua leveza e também a possibilidade de instalação de plugins, ele se torna uma ótima alternativa como “IDE Básica”.
+[![](http://angelitomg.github.io/wp-content/uploads/2012/02/notepad-team.png "notepad-team")](http://angelitomg.github.io/wp-content/uploads/2012/02/notepad-team.png)O [Notepad++](http://notepad-plus-plus.org) é um poderoso editor de textos utilizado por muitos programadores. Devido a sua interface limpa, sua leveza e também a possibilidade de instalação de plugins, ele se torna uma ótima alternativa como “IDE Básica”.
 
 Além disto, ele possui um recurso muito poderoso: suporte a expressões regulares.
 
@@ -23,7 +23,7 @@ Para utilizar expressões regulares no notepad++, basta abrir a caixa de pequisa
 
 Após isto, selecione a opção “Expressão Regular”:
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/02/expressao_regular.png "expressao_regular")](http://angelitomg.com/blog/wp-content/uploads/2012/02/expressao_regular.png)
+[![](http://angelitomg.github.io/wp-content/uploads/2012/02/expressao_regular.png "expressao_regular")](http://angelitomg.github.io/wp-content/uploads/2012/02/expressao_regular.png)
 
 A partir daí, basta utilizar suas expressões regulares na caixa de pesquisa para localizar e substituir textos. 😉
 

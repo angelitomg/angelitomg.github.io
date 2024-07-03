@@ -12,7 +12,7 @@ tags:
     - dropbox
 ---
 
-![glyph-vflK-Wlfk](http://angelitomg.com/blog/wp-content/uploads/2014/10/glyph-vflK-Wlfk.png)Costumo hospedar aqui no site, alguns arquivos para download (scripts, softwares e afins), porém de acordo com os termos de serviço do meu provedor de hospedagem, não é permitido hospedar estes arquivos para download. Não que eu tenha tido problemas quanto a isso, mas apenas para seguir a risca os termos, resolvi hospedar estes arquivos em minha conta no Dropbox (sem contar que fazendo isto, o consumo de banda também diminui).
+![glyph-vflK-Wlfk](http://angelitomg.github.io/wp-content/uploads/2014/10/glyph-vflK-Wlfk.png)Costumo hospedar aqui no site, alguns arquivos para download (scripts, softwares e afins), porém de acordo com os termos de serviço do meu provedor de hospedagem, não é permitido hospedar estes arquivos para download. Não que eu tenha tido problemas quanto a isso, mas apenas para seguir a risca os termos, resolvi hospedar estes arquivos em minha conta no Dropbox (sem contar que fazendo isto, o consumo de banda também diminui).
 
 Porém em vários posts, eu já tinha inserido os links para download destes arquivos, que seguiam o seguinte padrão **/downloads/nome\_do\_arquivo**. Para alterar os posts que eu já havia publicado, eu tinha duas opções:
 

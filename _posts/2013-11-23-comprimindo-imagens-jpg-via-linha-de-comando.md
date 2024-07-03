@@ -32,6 +32,6 @@ Para executá-lo, basta digitar:
 
 Onde **/home/angelito/Imagens** é o caminho das imagens e **90** é a qualidade das imagens após a conversão.
 
-O script pode ser baixado [AQUI](https://angelitomg.com/downloads/jpg-compress.zip). Se quiser contribuir com o código, acesse o [repositório no GitHub](https://github.com/angelitomg/jpg-compress).
+O script pode ser baixado [AQUI](https://angelitomg.github.io/downloads/jpg-compress.zip). Se quiser contribuir com o código, acesse o [repositório no GitHub](https://github.com/angelitomg/jpg-compress).
 
 Até a próxima 😉

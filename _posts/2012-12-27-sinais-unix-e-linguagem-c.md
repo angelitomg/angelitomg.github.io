@@ -19,7 +19,7 @@ tags:
     - unix
 ---
 
-[![icone_sinais](http://angelitomg.com/blog/wp-content/uploads/2012/12/sinais.png)](http://angelitomg.com/blog/wp-content/uploads/2012/12/sinais.png)Sinais são mensagens enviadas a um programa em execução. Por exemplo, quando usamos o comando **kill**, na verdade estamos enviando um sinal ao programa alvo.
+[![icone_sinais](http://angelitomg.github.io/wp-content/uploads/2012/12/sinais.png)](http://angelitomg.github.io/wp-content/uploads/2012/12/sinais.png)Sinais são mensagens enviadas a um programa em execução. Por exemplo, quando usamos o comando **kill**, na verdade estamos enviando um sinal ao programa alvo.
 
 Além disto, podemos tratar estes sinais, assim quando um sinal for enviando poderemos realizar uma ação personalizada.
 
@@ -74,7 +74,7 @@ Além disto, podemos passar sinais personalizados através do comando **kill**. 
 
 `kill -14 8192`
 
-No exemplo acima, o programa com o **PID** **8192** irá receber o sinal **14**. Um exemplo completo pode ser baixado [AQUI](https://angelitomg.com/downloads/sinais.c).
+No exemplo acima, o programa com o **PID** **8192** irá receber o sinal **14**. Um exemplo completo pode ser baixado [AQUI](https://angelitomg.github.io/downloads/sinais.c).
 
 O programa de exemplo trata o sinal de quando o usuário pressiona **CTRL+C** (sinal **2**), portanto não é possível finalizá-lo através deste comando. Para finalizá-lo obtenha o **PID** do programa (exibido no início da execução do programa) e digite no terminal o comando:
 

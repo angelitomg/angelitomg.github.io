@@ -13,7 +13,7 @@ tags:
     - unix
 ---
 
-[![hora unix](http://angelitomg.com/blog/wp-content/uploads/2012/12/Unix-time-passed-1000000000-seconds1.jpg)](http://angelitomg.com/blog/wp-content/uploads/2012/12/Unix-time-passed-1000000000-seconds1.jpg)A hora UNIX é um relógio que marca a quantidade de segundos passados desde 1º de Janeiro de 1970 (UTC) até o momento atual. Foi criado com o objetivo de facilitar o cálculo de datas entre computadores, visto que o cálculo de datas feito através do formato ‘humano’ é difícil para um computador.
+[![hora unix](http://angelitomg.github.io/wp-content/uploads/2012/12/Unix-time-passed-1000000000-seconds1.jpg)](http://angelitomg.github.io/wp-content/uploads/2012/12/Unix-time-passed-1000000000-seconds1.jpg)A hora UNIX é um relógio que marca a quantidade de segundos passados desde 1º de Janeiro de 1970 (UTC) até o momento atual. Foi criado com o objetivo de facilitar o cálculo de datas entre computadores, visto que o cálculo de datas feito através do formato ‘humano’ é difícil para um computador.
 
 Na maioria das linguagens de programação existem funções para que seja possível obter a hora UNIX atual ou converter uma data para este formato.
 

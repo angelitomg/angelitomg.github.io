@@ -16,7 +16,7 @@ tags:
     - segurança
 ---
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/02/denied.gif "denied")](http://angelitomg.com/blog/wp-content/uploads/2012/02/denied.gif)Bloquear scripts contra acesso direto, é algo bastante necessário pra quem desenvolve para web, principalmente se o arquivo a ser bloqueado seja um arquivo de configurações, com funções úteis, etc.
+[![](http://angelitomg.github.io/wp-content/uploads/2012/02/denied.gif "denied")](http://angelitomg.github.io/wp-content/uploads/2012/02/denied.gif)Bloquear scripts contra acesso direto, é algo bastante necessário pra quem desenvolve para web, principalmente se o arquivo a ser bloqueado seja um arquivo de configurações, com funções úteis, etc.
 
 O ideal nestas situações, é que se mantenha o arquivo acima da pasta raiz do seu servidor, porém quando isto não é possível, temos uma outra alternativa: vamos comparar o nome do arquivo a ser protegido, com o nome do arquivo que esta em execução.
 

@@ -18,6 +18,6 @@ Há muito tempo que eu queria publicar meu primeiro programa: um script batch, q
 
 Uma verdadeira gambiarra, cheia de echos e gotos. 😛
 
-Você pode baixá-lo [AQUI](https://angelitomg.com/downloads/calculator.zip).
+Você pode baixá-lo [AQUI](https://angelitomg.github.io/downloads/calculator.zip).
 
 Até a próxima 😉

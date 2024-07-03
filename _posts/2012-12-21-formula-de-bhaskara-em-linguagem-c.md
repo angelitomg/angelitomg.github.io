@@ -18,6 +18,6 @@ tags:
 
 Este script desenvolvi quando ainda estava no ensino médio, para calcular a famosa fórmula de bhaskara. O script é simples, feito em C e possui alguns comentários.
 
-O download do script pode ser feito [AQUI](https://angelitomg.com/downloads/bhaskara.c).
+O download do script pode ser feito [AQUI](https://angelitomg.github.io/downloads/bhaskara.c).
 
 Até a próxima 😉

@@ -25,6 +25,6 @@ Seu uso é muito simples, basta chamar o arquivo via linha de comando e passar o
 
 Pronto, o script irá deletar recursivamente todos os arquivos **.DS\_Store** que encontrar neste diretório.
 
-O script pode ser baixado [AQUI](https://angelitomg.com/downloads/delete-dsstore.zip). Se quiser contribuir, acesse o [repositório](https://github.com/angelitomg/delete-dsstore) no [GitHub](https://github.com/).
+O script pode ser baixado [AQUI](https://angelitomg.github.io/downloads/delete-dsstore.zip). Se quiser contribuir, acesse o [repositório](https://github.com/angelitomg/delete-dsstore) no [GitHub](https://github.com/).
 
 Até a próxima 😉

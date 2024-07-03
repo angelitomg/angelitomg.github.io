@@ -14,7 +14,7 @@ tags:
     - vim
 ---
 
-[![vim_editor](http://angelitomg.com/blog/wp-content/uploads/2013/04/vim_editor.gif)](http://angelitomg.com/blog/wp-content/uploads/2013/04/vim_editor.gif)Pesquisar um texto em um documento no VIM é algo bastante fácil. Para isto, basta pressionar **ESC** (para entrar no modo de comandos) e então digitar:
+[![vim_editor](http://angelitomg.github.io/wp-content/uploads/2013/04/vim_editor.gif)](http://angelitomg.github.io/wp-content/uploads/2013/04/vim_editor.gif)Pesquisar um texto em um documento no VIM é algo bastante fácil. Para isto, basta pressionar **ESC** (para entrar no modo de comandos) e então digitar:
 
 `/texto a ser buscado`
 

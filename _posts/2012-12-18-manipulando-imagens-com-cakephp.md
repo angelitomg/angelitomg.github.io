@@ -18,7 +18,7 @@ tags:
     - upload
 ---
 
-[![cakephp_logo](http://angelitomg.com/blog/wp-content/uploads/2012/12/cakephp_logo_250_trans.png)](http://angelitomg.com/blog/wp-content/uploads/2012/12/cakephp_logo_250_trans.png)O Qimage (QuickImage) é um componente desenvolvido para o framework CakePHP (versão 2.x) cujo objetivo é facilitar a manipulação e o upload de imagens. Através dele é possível copiar imagens vindas através de upload, redimensionar, cortar e adicionar marca d’água em imagens.
+[![cakephp_logo](http://angelitomg.github.io/wp-content/uploads/2012/12/cakephp_logo_250_trans.png)](http://angelitomg.github.io/wp-content/uploads/2012/12/cakephp_logo_250_trans.png)O Qimage (QuickImage) é um componente desenvolvido para o framework CakePHP (versão 2.x) cujo objetivo é facilitar a manipulação e o upload de imagens. Através dele é possível copiar imagens vindas através de upload, redimensionar, cortar e adicionar marca d’água em imagens.
 
 ### Instalação
 
@@ -90,7 +90,7 @@ Se somente a altura ou a largura for informada, o método calculará automaticam
 
 `$this->Qimage->resize(array('height' => 180, 'width' => 240, 'file' => '/img/img1.jpg', 'output' => '/img/thumbs/'));`
 
-O download do componente pode ser feito [AQUI](https://angelitomg.com/downloads/QimageComponent.zip).
+O download do componente pode ser feito [AQUI](https://angelitomg.github.io/downloads/QimageComponent.zip).
 
 [GitHub do componente](https://github.com/angelitomg/qimagecomponent).
 

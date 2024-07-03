@@ -17,10 +17,10 @@ tags:
     - programação
 ---
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/06/powershell.png "powershell")](http://angelitomg.com/blog/wp-content/uploads/2012/06/powershell.png)Muitas vezes precisamos verificar se um conjunto de computadores está acessível. Neste post estou disponibilizando um script simples feito com PowerShell que verifica a conectividade de uma lista de computadores definidos em um array.
+[![](http://angelitomg.github.io/wp-content/uploads/2012/06/powershell.png "powershell")](http://angelitomg.github.io/wp-content/uploads/2012/06/powershell.png)Muitas vezes precisamos verificar se um conjunto de computadores está acessível. Neste post estou disponibilizando um script simples feito com PowerShell que verifica a conectividade de uma lista de computadores definidos em um array.
 
 O teste é realizado através do cmdlet Test-Connection. No final da execução é mostrada uma mensagem exibindo quais computadores estavam acessíveis e quais não puderam ser acessados.
 
-O script pode ser baixado [AQUI](https://angelitomg.com/downloads/teste_conexao.ps1).
+O script pode ser baixado [AQUI](https://angelitomg.github.io/downloads/teste_conexao.ps1).
 
 Até a próxima 😉

@@ -21,7 +21,7 @@ O código Q é uma linguagem internacional de códigos utilizada para comunicaç
 
 Como o código possui várias siglas e seu aprendizado não está entre as coisas mais fáceis do universo, resolvi criar um script que ‘traduz’ o código Q. Basta abrir o aplicativo digitar o código desejado e o aplicativo informará o que aquele código quer dizer.
 
-O script pode ser acessado [AQUI](http://angelitomg.com/apps/codigoq) e os fontes podem serem baixados [AQUI](https://angelitomg.com/downloads/tradutor_codigo_q.zip).
+Os fontes podem serem baixados [AQUI](https://angelitomg.github.io/downloads/tradutor_codigo_q.zip).
 
 O significado dos códigos foi pego na [wikipédia](http://pt.wikipedia.org/wiki/C%C3%B3digo_Internacional_Q).
 

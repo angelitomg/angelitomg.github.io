@@ -27,6 +27,6 @@ Com as fontes atualizadas, vamos instalar o xrdp:
 
 Após instalado, basta utilizar um cliente RDP para acessar o Raspberry. No meu caso, utilizei o próprio cliente do Windows.
 
-![raspberrypi-rdp](http://angelitomg.com/blog/wp-content/uploads/2014/10/raspberrypi-rdp.png)
+![raspberrypi-rdp](http://angelitomg.github.io/wp-content/uploads/2014/10/raspberrypi-rdp.png)
 
 Até a próxima 😉

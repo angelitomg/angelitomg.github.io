@@ -21,7 +21,7 @@ Quando estamos desenvolvendo um módulo para o Magento, precisamos certas vezes 
 
 Pronto, após isto sua mensagem de erro já poderá ser exibida no layout da administração do Magento.
 
-[![Captura de tela 2013-04-02 às 11.19.23](http://angelitomg.com/blog/wp-content/uploads/2013/04/Captura-de-tela-2013-04-02-às-11.19.23.png)](http://angelitomg.com/blog/wp-content/uploads/2013/04/Captura-de-tela-2013-04-02-às-11.19.23.png)
+[![Captura de tela 2013-04-02 às 11.19.23](http://angelitomg.github.io/wp-content/uploads/2013/04/Captura-de-tela-2013-04-02-às-11.19.23.png)](http://angelitomg.github.io/wp-content/uploads/2013/04/Captura-de-tela-2013-04-02-às-11.19.23.png)
 
 (Este post foi baseado na versão 1.7.0.0 do Magento)
 

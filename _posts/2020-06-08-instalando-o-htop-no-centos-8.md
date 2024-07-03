@@ -29,6 +29,6 @@ Porém o htop não vem instalado por padrão no CentOS 8. Para instalá-lo, bast
 
 Após isto, basta executar o comando htop. Abaixo, uma imagem com a execução do comando:
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-08-às-10.42.43.png)](http://angelitomg.com/blog/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-08-às-10.42.43.png)
+[![](http://angelitomg.github.io/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-08-às-10.42.43.png)](http://angelitomg.github.io/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-08-às-10.42.43.png)
 
 Até a próxima 😉

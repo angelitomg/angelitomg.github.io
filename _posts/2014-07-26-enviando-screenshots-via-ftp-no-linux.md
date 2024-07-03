@@ -19,6 +19,6 @@ Estava navegando por uns scripts antigos quando encontrei um script interessante
 
 Para utilizá-lo, abra o arquivo do script e configure-o da maneira desejada. É importante lembrar que o script deve ser executado como root.
 
-O script pode ser baixado [AQUI](https://angelitomg.com/downloads/screenshot.zip).
+O script pode ser baixado [AQUI](https://angelitomg.github.io/downloads/screenshot.zip).
 
 Até a próxima 😉

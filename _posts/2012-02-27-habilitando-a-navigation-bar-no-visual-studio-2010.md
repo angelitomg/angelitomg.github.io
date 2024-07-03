@@ -26,6 +26,6 @@ A navigation bar é um recurso da suíte Visual Studio, da Microsoft, que mostra
 
 Pronto! A Navigation Bar estará ativada.
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/02/navbar_vs2010.png "navbar_vs2010")](http://angelitomg.com/blog/wp-content/uploads/2012/02/navbar_vs2010.png)
+[![](http://angelitomg.github.io/wp-content/uploads/2012/02/navbar_vs2010.png "navbar_vs2010")](http://angelitomg.github.io/wp-content/uploads/2012/02/navbar_vs2010.png)
 
 Até a próxima 😉

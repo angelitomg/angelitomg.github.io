@@ -18,9 +18,9 @@ No começo da década de 90, quando os recursos computacionais eram bastante lim
 
 Segue então um exemplo de um cenário 3D, similar ao Wolfenstein 3D, porém utilizando apenas JavaScript. O código está todo comentado em português e foi baseado [neste tutorial](https://dev.opera.com/articles/3d-games-with-canvas-and-raycasting-part-1/).
 
-![raycasting](http://angelitomg.com/blog/wp-content/uploads/2016/08/raycasting.png)
+![raycasting](http://angelitomg.github.io/wp-content/uploads/2016/08/raycasting.png)
 
-Você pode visualizar o exemplo online [AQUI](http://angelitomg.com/apps/raycasting/), baixar o código [AQUI](https://angelitomg.com/downloads/raycasting.zip) ou me ajudar a melhorar o código no [Github](https://github.com/angelitomg/raycasting).
+Você pode baixar o código [AQUI](https://angelitomg.github.io/downloads/raycasting.zip) ou me ajudar a melhorar o código no [Github](https://github.com/angelitomg/raycasting).
 
 Ahh, o mapa é um array em JavaScript, então para modificar os objetos do mapa, é só alterar este array. 🙂
 

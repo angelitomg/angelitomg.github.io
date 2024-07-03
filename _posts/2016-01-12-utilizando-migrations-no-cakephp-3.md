@@ -16,7 +16,7 @@ tags:
     - migrations
 ---
 
-[![cakephp_logo](http://angelitomg.com/blog/wp-content/uploads/2012/12/cakephp_logo_250_trans.png)](http://angelitomg.com/blog/wp-content/uploads/2012/12/cakephp_logo_250_trans.png)Migrations é um recurso que permite ao desenvolvedor, controlar as alterações realizadas na estrutura da sua base de dados, permitindo assim, um versionamento melhor do banco de dados. No final das contas são arquivos PHP que estendem a classe **AbstractMigration** e através da API disponibilizada pelo CakePHP, constroem e modificam a base de dados.
+[![cakephp_logo](http://angelitomg.github.io/wp-content/uploads/2012/12/cakephp_logo_250_trans.png)](http://angelitomg.github.io/wp-content/uploads/2012/12/cakephp_logo_250_trans.png)Migrations é um recurso que permite ao desenvolvedor, controlar as alterações realizadas na estrutura da sua base de dados, permitindo assim, um versionamento melhor do banco de dados. No final das contas são arquivos PHP que estendem a classe **AbstractMigration** e através da API disponibilizada pelo CakePHP, constroem e modificam a base de dados.
 
 Neste pequeno post, vou mostrar como instalar o plugin **Migrations** e executar uma migração básica. Para isto, assumo que você tenha familiaridade com o **Composer** e com o **CakePHP**.
 

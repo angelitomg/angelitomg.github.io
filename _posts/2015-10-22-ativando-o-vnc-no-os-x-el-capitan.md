@@ -18,7 +18,7 @@ O OS X é um sistema operacional que vem com diversos recursos em sua instalaç�
 
 Para ativar o servidor VNC no OS X El Capitan, você deve abrir as **Preferências do Sistema** e selecionar a opção **Compartilhamento**.
 
-[![Captura de Tela 2015-10-19 às 09.49.07](http://angelitomg.com/blog/wp-content/uploads/2015/10/Captura-de-Tela-2015-10-19-às-09.49.07.png)](http://angelitomg.com/blog/wp-content/uploads/2015/10/Captura-de-Tela-2015-10-19-às-09.49.07.png)
+[![Captura de Tela 2015-10-19 às 09.49.07](http://angelitomg.github.io/wp-content/uploads/2015/10/Captura-de-Tela-2015-10-19-às-09.49.07.png)](http://angelitomg.github.io/wp-content/uploads/2015/10/Captura-de-Tela-2015-10-19-às-09.49.07.png)
 
 Selecione a opção **Compartilhar Tela**. Nesta tela você pode definir quais usuários poderão acessar o computador através do VNC. É possível definir uma senha de acesso através do botão **Configurações do Computador**.
 

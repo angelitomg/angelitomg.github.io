@@ -73,6 +73,6 @@ No código acima apenas fizemos uma requisição AJAX para a página contador.ph
 
 No código acima, convertemos as duas datas para a [hora UNIX](http://angelitomg.com/blog/a-hora-unix/ "A Hora UNIX"), realizamos o cálculo da diferença entre elas e por fim exibimos o resultado.
 
-Você pode baixar os códigos deste post [AQUI](https://angelitomg.com/downloads/contador_regressivo.zip).
+Você pode baixar os códigos deste post [AQUI](https://angelitomg.github.io/downloads/contador_regressivo.zip).
 
 Até a próxima 😉

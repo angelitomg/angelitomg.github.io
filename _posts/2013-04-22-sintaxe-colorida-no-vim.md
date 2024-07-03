@@ -21,6 +21,6 @@ Após aberto, basta adicionar a seguinte linha:
 
 Pronto, o vim já estará deixando seus arquivos de código coloridos.
 
-[![Captura de tela 2013-04-22 às 11.59.33](http://angelitomg.com/blog/wp-content/uploads/2013/04/Captura-de-tela-2013-04-22-às-11.59.33.png)](http://angelitomg.com/blog/wp-content/uploads/2013/04/Captura-de-tela-2013-04-22-às-11.59.33.png)
+[![Captura de tela 2013-04-22 às 11.59.33](http://angelitomg.github.io/wp-content/uploads/2013/04/Captura-de-tela-2013-04-22-às-11.59.33.png)](http://angelitomg.github.io/wp-content/uploads/2013/04/Captura-de-tela-2013-04-22-às-11.59.33.png)
 
 Até a próxima 😉

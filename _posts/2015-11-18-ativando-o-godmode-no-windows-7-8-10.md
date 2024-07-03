@@ -21,6 +21,6 @@ Para acessar o GodMode, basta criar uma pasta na Área de Trabalho (ou algum out
 
 Agora é só abrir o ícone e pronto! A lista com as configurações será exibida.
 
-[![godmode](http://angelitomg.com/blog/wp-content/uploads/2015/11/godmode.png)](http://angelitomg.com/blog/wp-content/uploads/2015/11/godmode.png)
+[![godmode](http://angelitomg.github.io/wp-content/uploads/2015/11/godmode.png)](http://angelitomg.github.io/wp-content/uploads/2015/11/godmode.png)
 
 Até a próxima 😉

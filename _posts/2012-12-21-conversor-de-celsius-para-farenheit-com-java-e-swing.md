@@ -19,6 +19,6 @@ tags:
 
 Neste post vou trazer a vocês um script simples feito em Java que converte uma temperatura de celsius para farenheit. O script usa uma interface gráfica muito simples feita com Swing.
 
-O script pode ser baixado [AQUI](https://angelitomg.com/downloads/Temperatura.zip).
+O script pode ser baixado [AQUI](https://angelitomg.github.io/downloads/Temperatura.zip).
 
 Até a próxima 😉

@@ -16,6 +16,6 @@ Assim como o Chrome, o Safari também possui uma ótima ferramenta para auxiliar
 
 Porém esta opção vem desativada por padrão. Para ativá-la, abra as **Preferências** do Safari. Na aba **Avançado**, marque a opção **Mostrar menu Desenvolvedor na barra de menus**.
 
-[![Captura de Tela 2015-11-13 às 09.59.30](http://angelitomg.com/blog/wp-content/uploads/2015/11/Captura-de-Tela-2015-11-13-às-09.59.30-300x241.png)](http://angelitomg.com/blog/wp-content/uploads/2015/11/Captura-de-Tela-2015-11-13-às-09.59.30.png)
+[![Captura de Tela 2015-11-13 às 09.59.30](http://angelitomg.github.io/wp-content/uploads/2015/11/Captura-de-Tela-2015-11-13-às-09.59.30-300x241.png)](http://angelitomg.github.io/wp-content/uploads/2015/11/Captura-de-Tela-2015-11-13-às-09.59.30.png)
 
 Após isto, o menu Desenvolvedor já irá aparecer na barra de menus. Até a próxima 😉

@@ -45,6 +45,6 @@ Após isto basta dar permissão de execução ao scrit (chmod +x monitor.sh) e e
 
 Para terminar a execução do script, basta pressionar CTRL + C.
 
-Você também pode fazer o download do script [AQUI](https://angelitomg.com/downloads/monitor.zip).
+Você também pode fazer o download do script [AQUI](https://angelitomg.github.io/downloads/monitor.zip).
 
 Até a próxima 😉

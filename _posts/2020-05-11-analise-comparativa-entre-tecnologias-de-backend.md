@@ -14,7 +14,7 @@ tags:
 
 Terceiro e último post sobre minhas contribuições acadêmicas dos últimos anos, venho apresentar o TCC do curso de Especialização em Aplicações Web da FURG, que conclui em 2019. Como trabalho de conclusão, fiz um estudo comparando as principais tecnologias de backend: Java, NodeJS e PHP.
 
-O artigo pode ser baixado [AQUI](<https://angelitomg.com/downloads/Análise Comparativa Entre Linguagens de Backend.docx.pdf>).
+O artigo pode ser baixado [AQUI](<https://angelitomg.github.io/downloads/Análise Comparativa Entre Linguagens de Backend.docx.pdf>).
 
 Spoiler: Java ganhou, mas acho que foi injusto! 😛 hehehe
 

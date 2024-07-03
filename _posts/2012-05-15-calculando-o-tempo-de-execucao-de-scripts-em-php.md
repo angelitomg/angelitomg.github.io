@@ -15,7 +15,7 @@ tags:
     - programação
 ---
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/05/Actions-chronometer-icon.png "Actions-chronometer-icon")](http://angelitomg.com/blog/wp-content/uploads/2012/05/Actions-chronometer-icon.png)Neste post vou disponibilizar a vocês uma mini biblioteca para o cálculo de tempo em PHP. Seu uso é muito simples:
+[![](http://angelitomg.github.io/wp-content/uploads/2012/05/Actions-chronometer-icon.png "Actions-chronometer-icon")](http://angelitomg.github.io/wp-content/uploads/2012/05/Actions-chronometer-icon.png)Neste post vou disponibilizar a vocês uma mini biblioteca para o cálculo de tempo em PHP. Seu uso é muito simples:
 
 Basta incluir o arquivo no script que se deseja medir o tempo, chamar a função **startExec()** no começo do script e a função **endExec()** no final do script. A função endExec() retorna o tempo de execução do script em segundos.
 
@@ -33,6 +33,6 @@ Vamos a um exemplo simples:
 > 
 > ?&gt;
 
-O script pode ser baixado [AQUI](https://angelitomg.com/downloads/exec_time.zip).
+O script pode ser baixado [AQUI](https://angelitomg.github.io/downloads/exec_time.zip).
 
 Até a próxima 😉

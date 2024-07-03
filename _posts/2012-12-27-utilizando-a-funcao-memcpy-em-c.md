@@ -24,6 +24,6 @@ Vamos supor que queremos copiar o conteúdo de dois arrays de tamanhos iguais: *
 
 No exemplo acima copiamos todo o conteúdo de **a** para **b**. Simples assim!
 
-Um exemplo completo pode ser baixado [AQUI](https://angelitomg.com/downloads/memcpy.c).
+Um exemplo completo pode ser baixado [AQUI](https://angelitomg.github.io/downloads/memcpy.c).
 
 Até a próxima 😉

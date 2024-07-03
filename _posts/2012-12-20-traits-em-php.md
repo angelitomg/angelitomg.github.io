@@ -37,6 +37,6 @@ E vamos utilizá-lo em uma classe:
 
 Assim, temos acesso a todos os métodos do trait **HelloWorld** na classe **AloMundo**.
 
-Um exemplo mais detalhado pode ser baixado [AQUI](https://angelitomg.com/downloads/exemplo_traits.zip).
+Um exemplo mais detalhado pode ser baixado [AQUI](https://angelitomg.github.io/downloads/exemplo_traits.zip).
 
 Até a próxima 😉

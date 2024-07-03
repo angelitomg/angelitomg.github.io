@@ -16,8 +16,8 @@ tags:
     - 'shake choose'
 ---
 
-![Shake Choose](http://angelitomg.com/blog/wp-content/uploads/2014/10/ic_launcher.png)O Shake Choose é um aplicativo para Android que tem como objetivo tirar as dúvidas do usuário. Nele, o usuário preenche uma lista com as opções na qual está em dúvida, balança o dispositivo e ele automaticamente sorteia uma das opções informadas.
+![Shake Choose](http://angelitomg.github.io/wp-content/uploads/2014/10/ic_launcher.png)O Shake Choose é um aplicativo para Android que tem como objetivo tirar as dúvidas do usuário. Nele, o usuário preenche uma lista com as opções na qual está em dúvida, balança o dispositivo e ele automaticamente sorteia uma das opções informadas.
 
-O app é bem simples e eu o desenvolvi em poucas horas. Ele está disponível na [Play Store](https://play.google.com/store/apps/details?id=com.angelitomg.shakechoose&hl=pt_BR) e o código fonte está disponível [AQUI](https://angelitomg.com/downloads/ShakeChoose.zip) e também no [Github](http://github.com/angelitomg/shakechoose).
+O app é bem simples e eu o desenvolvi em poucas horas. Ele está disponível na [Play Store](https://play.google.com/store/apps/details?id=com.angelitomg.shakechoose&hl=pt_BR) e o código fonte está disponível [AQUI](https://angelitomg.github.io/downloads/ShakeChoose.zip) e também no [Github](http://github.com/angelitomg/shakechoose).
 
 Até a próxima 😉

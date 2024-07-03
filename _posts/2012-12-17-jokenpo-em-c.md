@@ -18,6 +18,6 @@ tags:
 
 Neste post trago a vocês o código de um programa em C que fiz há algum tempo atrás que simula um jogo de jokenpo (pedra, papel, tesoura). No jogo o jogador joga contra o computador. Ainda existe um placar onde é marcado quantas vezes o jogador e quantas vezes o computador ganhou.
 
-O código fonte pode ser baixado [AQUI](https://angelitomg.com/downloads/jokenpo.c).
+O código fonte pode ser baixado [AQUI](https://angelitomg.github.io/downloads/jokenpo.c).
 
 Até a próxima 😉

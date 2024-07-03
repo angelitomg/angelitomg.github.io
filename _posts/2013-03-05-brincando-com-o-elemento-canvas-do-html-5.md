@@ -19,6 +19,6 @@ Neste post disponibilizo um script que fiz há algum tempo na qual mostro um exe
 
 O script apenas exibe quadrados de cores aleatórias em lugares aleatórios da tela.
 
-Ele pode ser acessado [AQUI](http://angelitomg.com/apps/exemplo-canvas/) e baixado [AQUI](https://angelitomg.com/downloads/exemplo-canvas.zip).
+Ele pode ser baixado [AQUI](https://angelitomg.github.io/downloads/exemplo-canvas.zip).
 
 Até a próxima 😉

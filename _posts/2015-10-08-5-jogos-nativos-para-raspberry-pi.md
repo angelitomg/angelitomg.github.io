@@ -23,7 +23,7 @@ Como uma opção, existe a possibilidade de rodar jogos nativos, aumentando assi
 
 ### **Freeciv**
 
-[![freeciv-screenshot](http://angelitomg.com/blog/wp-content/uploads/2015/10/freeciv-screenshot.jpg)](http://angelitomg.com/blog/wp-content/uploads/2015/10/freeciv-screenshot.jpg)
+[![freeciv-screenshot](http://angelitomg.github.io/wp-content/uploads/2015/10/freeciv-screenshot.jpg)](http://angelitomg.github.io/wp-content/uploads/2015/10/freeciv-screenshot.jpg)
 
 Um simulador gratuíto ao estilo Civilization. Para instalá-lo, visite a Pi Store ou utilize o terminal:
 
@@ -31,7 +31,7 @@ Um simulador gratuíto ao estilo Civilization. Para instalá-lo, visite a Pi Sto
 
 ### OpenTTD
 
-[![openttd-screenshot](http://angelitomg.com/blog/wp-content/uploads/2015/10/openttd-screenshot.jpg)](http://angelitomg.com/blog/wp-content/uploads/2015/10/openttd-screenshot.jpg)
+[![openttd-screenshot](http://angelitomg.github.io/wp-content/uploads/2015/10/openttd-screenshot.jpg)](http://angelitomg.github.io/wp-content/uploads/2015/10/openttd-screenshot.jpg)
 
 O OpenTTD é uma versão opensource do jogo Transport Tycoon Deluxe. Pode ser instalado pelo terminal, com o seguinte comando:
 
@@ -39,7 +39,7 @@ O OpenTTD é uma versão opensource do jogo Transport Tycoon Deluxe. Pode ser in
 
 ### Open Arena
 
-[![openarena-screenshot](http://angelitomg.com/blog/wp-content/uploads/2015/10/openarena-screenshot.jpg)](http://angelitomg.com/blog/wp-content/uploads/2015/10/openarena-screenshot.jpg)
+[![openarena-screenshot](http://angelitomg.github.io/wp-content/uploads/2015/10/openarena-screenshot.jpg)](http://angelitomg.github.io/wp-content/uploads/2015/10/openarena-screenshot.jpg)
 
 Um FPS ao estilo Quake. Muito bom para jogar em rede. Para instalá-lo, visite a Pi Store ou utilize o terminal:
 
@@ -47,7 +47,7 @@ Um FPS ao estilo Quake. Muito bom para jogar em rede. Para instalá-lo, visite a
 
 ### Super Tux
 
-[![supertux-screenshot](http://angelitomg.com/blog/wp-content/uploads/2015/10/supertux-screenshot.jpg)](http://angelitomg.com/blog/wp-content/uploads/2015/10/supertux-screenshot.jpg)
+[![supertux-screenshot](http://angelitomg.github.io/wp-content/uploads/2015/10/supertux-screenshot.jpg)](http://angelitomg.github.io/wp-content/uploads/2015/10/supertux-screenshot.jpg)
 
 Um jogo de plataforma bem parecido com o famoso Mario, porém estrelado por um pinguim. Para instalá-lo via terminal, utilize o comando:
 
@@ -55,7 +55,7 @@ Um jogo de plataforma bem parecido com o famoso Mario, porém estrelado por um p
 
 ### SuperTuxKart
 
-[![supertuxkart-screenshot](http://angelitomg.com/blog/wp-content/uploads/2015/10/supertuxkart-screenshot.jpg)](http://angelitomg.com/blog/wp-content/uploads/2015/10/supertuxkart-screenshot.jpg)
+[![supertuxkart-screenshot](http://angelitomg.github.io/wp-content/uploads/2015/10/supertuxkart-screenshot.jpg)](http://angelitomg.github.io/wp-content/uploads/2015/10/supertuxkart-screenshot.jpg)
 
 Um jogo de corrida de kart, bastante similar ao também famoso Mario Kart e estrelado novamente por um pinguim. Para instalá-lo, utilize o seguinte comando no terminal:
 

@@ -19,9 +19,9 @@ Arquivos binários são arquivos onde os dados são armazenados em um formato qu
 
 Trago a vocês dois códigos em pascal, totalmente comentados. O script **escreve\_arquivo.pas** é responsavel por escrever dados em um arquivo binário e o script **le\_arquivo.pas** é responsável por ler os dados gravados pelo script **escreve\_arquivo.pas**. Testei os dois scripts utilizando o compilador [Free Pascal](http://www.freepascal.org) e funcionaram perfeitamente.
 
-[le\_arquivo.pas](https://angelitomg.com/downloads/le_arquivo.pas)
+[le\_arquivo.pas](https://angelitomg.github.io/downloads/le_arquivo.pas)
 
-[escreve\_arquivo.pas](https://angelitomg.com/downloads/escreve_arquivo.pas)
+[escreve\_arquivo.pas](https://angelitomg.github.io/downloads/escreve_arquivo.pas)
 
 Qualquer dúvida, comentem!
 

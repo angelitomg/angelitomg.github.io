@@ -15,7 +15,7 @@ tags:
     - programação
 ---
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/02/cookie.png "cookie")](http://angelitomg.com/blog/wp-content/uploads/2012/02/cookie.png)Cookie são arquivos de texto que são armazenados na máquina do cliente. São muito úteis pois através deles é possível armazenar preferências e outros dados na máquina do cliente, para que possam serem recuperados na próxima vez que aquele usuário acessar o site.
+[![](http://angelitomg.github.io/wp-content/uploads/2012/02/cookie.png "cookie")](http://angelitomg.github.io/wp-content/uploads/2012/02/cookie.png)Cookie são arquivos de texto que são armazenados na máquina do cliente. São muito úteis pois através deles é possível armazenar preferências e outros dados na máquina do cliente, para que possam serem recuperados na próxima vez que aquele usuário acessar o site.
 
 Para trabalhar com cookies no PHP, utilizaremos a função **setcookie()**.
 

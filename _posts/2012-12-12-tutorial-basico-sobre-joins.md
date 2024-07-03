@@ -19,9 +19,9 @@ Joins (junções) são um recurso presente nos bancos de dados relacionais, atra
 
 Neste tutorial vou utilizar o MySQL, apesar do conceito e possivelmente os comandos não mudarem muito de banco para banco. Vamos utilizar 2 tabelas: **pedidos** e **vendedores**.
 
-<div class="wp-caption aligncenter" id="attachment_349" style="width: 463px">[![Tabela Pedidos](http://angelitomg.com/blog/wp-content/uploads/2012/12/join_1.png "Tabela Pedidos")](http://angelitomg.com/blog/wp-content/uploads/2012/12/join_1.png)Tabela Pedidos
+<div class="wp-caption aligncenter" id="attachment_349" style="width: 463px">[![Tabela Pedidos](http://angelitomg.github.io/wp-content/uploads/2012/12/join_1.png "Tabela Pedidos")](http://angelitomg.github.io/wp-content/uploads/2012/12/join_1.png)Tabela Pedidos
 
-</div><div class="wp-caption aligncenter" id="attachment_350" style="width: 217px">[![Tabela Vendedores](http://angelitomg.com/blog/wp-content/uploads/2012/12/join_2.png "Tabela Vendedores")](http://angelitomg.com/blog/wp-content/uploads/2012/12/join_2.png)Tabela Vendedores
+</div><div class="wp-caption aligncenter" id="attachment_350" style="width: 217px">[![Tabela Vendedores](http://angelitomg.github.io/wp-content/uploads/2012/12/join_2.png "Tabela Vendedores")](http://angelitomg.github.io/wp-content/uploads/2012/12/join_2.png)Tabela Vendedores
 
 </div>### INNER JOIN
 
@@ -29,7 +29,7 @@ Inner join (junção interna) é um tipo de junção na qual somente serão sele
 
 > SELECT pedidos.\*, vendedores.\* FROM pedidos INNER JOIN vendedores ON pedidos.vendedor\_id = vendedores.id
 
-<div class="wp-caption aligncenter" id="attachment_351" style="width: 417px">[![Resultado Inner Join](http://angelitomg.com/blog/wp-content/uploads/2012/12/join_3.png "Resultado Inner Join")](http://angelitomg.com/blog/wp-content/uploads/2012/12/join_3.png)Resultado Inner Join
+<div class="wp-caption aligncenter" id="attachment_351" style="width: 417px">[![Resultado Inner Join](http://angelitomg.github.io/wp-content/uploads/2012/12/join_3.png "Resultado Inner Join")](http://angelitomg.github.io/wp-content/uploads/2012/12/join_3.png)Resultado Inner Join
 
 </div>No exemplo acima, selecionamos todos os dados da tabela pedidos e da tabela vendedores, porém somente os registros cuja coluna vendedor\_id da tabela pedidos seja igual a coluna id da tabela vendedores, obtem assim todos os pedidos que tiverem o ID de um vendedor cadastrado.
 
@@ -39,7 +39,7 @@ Left join (junção esquerda) é semelhante ao INNER JOIN, porém aqui **TODOS**
 
 > SELECT pedidos.\*, vendedores.\* FROM pedidos LEFT JOIN vendedores ON pedidos.vendedor\_id = vendedores.id
 
-<div class="wp-caption aligncenter" id="attachment_352" style="width: 437px">[![Resultado Left Join](http://angelitomg.com/blog/wp-content/uploads/2012/12/join_4.png "join_4")](http://angelitomg.com/blog/wp-content/uploads/2012/12/join_4.png)Resultado Left Join
+<div class="wp-caption aligncenter" id="attachment_352" style="width: 437px">[![Resultado Left Join](http://angelitomg.github.io/wp-content/uploads/2012/12/join_4.png "join_4")](http://angelitomg.github.io/wp-content/uploads/2012/12/join_4.png)Resultado Left Join
 
 </div>No exemplo acima, todos os pedidos serão retornados, independente de tiverem ou não relação com algum vendedor. Os vendedores que tiverem alguma relação com algum pedido também serão retornados.
 
@@ -49,7 +49,7 @@ Right join (juncão direita) é idêntica a LEFT JOIN, com a diferença que nest
 
 > SELECT pedidos.\*, vendedores.\* FROM pedidos RIGHT JOIN vendedores ON pedidos.vendedor\_id = vendedores.id
 
-<div class="wp-caption aligncenter" id="attachment_353" style="width: 430px">[![Resultado Right Join](http://angelitomg.com/blog/wp-content/uploads/2012/12/join_5.png "join_5")](http://angelitomg.com/blog/wp-content/uploads/2012/12/join_5.png)Resultado Right Join
+<div class="wp-caption aligncenter" id="attachment_353" style="width: 430px">[![Resultado Right Join](http://angelitomg.github.io/wp-content/uploads/2012/12/join_5.png "join_5")](http://angelitomg.github.io/wp-content/uploads/2012/12/join_5.png)Resultado Right Join
 
 </div>No exemplo acima, todos os pedidos que tiverem relação com algum vendedor, ou seja, pedidos onde o vendedor\_id seja igual ao id do vendedor, serão selecionados. Também serão selecionados todos os vendedores, independente se tiverem ou não relação com algum pedido.
 
@@ -59,7 +59,7 @@ Cross join (junção cruzada) é o tipo de junção em que para cada registro da
 
 > SELECT pedidos.\*, vendedores.\* FROM pedidos CROSS JOIN vendedores
 
-<div class="wp-caption aligncenter" id="attachment_354" style="width: 408px">[![Resultado Cross Join](http://angelitomg.com/blog/wp-content/uploads/2012/12/join_6.png "join_6")](http://angelitomg.com/blog/wp-content/uploads/2012/12/join_6.png)Resultado Cross Join
+<div class="wp-caption aligncenter" id="attachment_354" style="width: 408px">[![Resultado Cross Join](http://angelitomg.github.io/wp-content/uploads/2012/12/join_6.png "join_6")](http://angelitomg.github.io/wp-content/uploads/2012/12/join_6.png)Resultado Cross Join
 
 </div>Assim, todos os registros da primeira tabela, serão relacionados com os registros da segunda tabela.
 

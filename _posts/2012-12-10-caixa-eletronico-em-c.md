@@ -19,6 +19,6 @@ Quando ainda tinha o[ blog hospedado no wordpress](http://angelitomg.wordpress.c
 
 Depois de muito tempo, resolvi fazer uma versão atualizada do script e disponibilizá-la aqui no blog. Agora a nova versão suporta notas de 100, 50, 20, 10, 5 e 2.
 
-O download da nova versão pode ser feito [AQUI](https://angelitomg.com/downloads/caixa_eletronico.c).
+O download da nova versão pode ser feito [AQUI](https://angelitomg.github.io/downloads/caixa_eletronico.c).
 
 Até a próxima 😉

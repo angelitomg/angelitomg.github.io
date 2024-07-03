@@ -19,7 +19,7 @@ O Raspberry Pi disponibiliza uma série de pinos GPIO para uso geral. Através d
 
 O Raspberry Pi B rev 2, que é a versão que vamos utilizar como base, possui 26 pinos de entrada e saída. Abaixo segue um diagrama informando os pinos que o Raspberry Pi B rev 2 disponibiliza:
 
-![raspberry_pi_model_b_rev2_pinout](http://angelitomg.com/blog/wp-content/uploads/2014/10/raspberry_pi_model_b_rev2_pinout.png)
+![raspberry_pi_model_b_rev2_pinout](http://angelitomg.github.io/wp-content/uploads/2014/10/raspberry_pi_model_b_rev2_pinout.png)
 
 Para começar a trabalhar com os pinos GPIO, primeiramente precisamos inicializá-los. Para isto, em seu Raspberry Pi digite o seguinte comando (vamos supor que você esteja utilizando o Raspbian Wheezy):
 
@@ -43,7 +43,7 @@ Com o pino devidamente configurado, vamos ligá-lo:
 
 Agora, se medir com o multímetro, haverá uma tensão no **GPIO27**. Na foto abaixo, demonstrei utilizando um led.
 
-![image](http://angelitomg.com/blog/wp-content/uploads/2014/10/image-300x224.jpeg)
+![image](http://angelitomg.github.io/wp-content/uploads/2014/10/image-300x224.jpeg)
 
 Para remover a tensão do pino, basta executar:
 

@@ -14,7 +14,7 @@ tags:
     - paginacao
 ---
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/04/mysql-logo.png "mysql-logo")](http://angelitomg.com/blog/wp-content/uploads/2012/04/mysql-logo.png)Em muitos casos, possuimos uma quantidade gigantesca de dados porém gostaríamos de exibir os resultados para o usuário de uma forma mais organizada, dividindo os dados em pequenas porções, para que a navegação e a visualização se torne mais agradável. Isto é feito através da paginação.
+[![](http://angelitomg.github.io/wp-content/uploads/2012/04/mysql-logo.png "mysql-logo")](http://angelitomg.github.io/wp-content/uploads/2012/04/mysql-logo.png)Em muitos casos, possuimos uma quantidade gigantesca de dados porém gostaríamos de exibir os resultados para o usuário de uma forma mais organizada, dividindo os dados em pequenas porções, para que a navegação e a visualização se torne mais agradável. Isto é feito através da paginação.
 
 No MySQL podemos paginar resultados basicamente através de dois comandos: o comando LIMIT e o comando OFFSET. Nos dois casos, precisamos informar a partir de qual registro os resultados serão exibidos.
 

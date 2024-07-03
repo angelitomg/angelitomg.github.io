@@ -14,7 +14,7 @@ tags:
     - uname
 ---
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/02/Terminal.png "Terminal")](http://angelitomg.com/blog/wp-content/uploads/2012/02/Terminal.png)O comando **uname** é um comando utilizado em sistemas Unix/Linux para exibir informações sobre a máquina que se está operando, como por exemplo, o sistema operacional que está instalado, versão do kernel, etc. Para utilizá-lo, basta digitar na linha de comando:
+[![](http://angelitomg.github.io/wp-content/uploads/2012/02/Terminal.png "Terminal")](http://angelitomg.github.io/wp-content/uploads/2012/02/Terminal.png)O comando **uname** é um comando utilizado em sistemas Unix/Linux para exibir informações sobre a máquina que se está operando, como por exemplo, o sistema operacional que está instalado, versão do kernel, etc. Para utilizá-lo, basta digitar na linha de comando:
 
 **uname**
 

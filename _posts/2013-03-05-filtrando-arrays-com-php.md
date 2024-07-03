@@ -16,6 +16,6 @@ tags:
 
 Hoje vou mostrar a vocês um script muito simples, mas muito eficaz para filtrar arrays. Este script pode ser útil para filtrar os dados vindos da variável **$\_POST** por exemplo, já que ele irá percorrer todos os elementos e aplicar um determinado código a todos.
 
-O script pode ser baixado [AQUI](https://angelitomg.com/downloads/filtrar_array.zip).
+O script pode ser baixado [AQUI](https://angelitomg.github.io/downloads/filtrar_array.zip).
 
 Até a próxima 😉

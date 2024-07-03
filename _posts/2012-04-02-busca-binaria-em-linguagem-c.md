@@ -50,6 +50,6 @@ Elemento do meio: **20**. Achamos o que procuravamos!
 
 Veja que em apenas 3 passos, achamos o elemento que estavamos procurando. Em uma busca sequencial, teríamos que realizar 8 passos. Imagine isto aplicado a um vetor de 10.000.000 elementos! Hehehe
 
-Estou postando um codigo fonte de exemplo em C de busca binária. O código pode ser baixado [AQUI](https://angelitomg.com/downloads/busca_binaria.c).
+Estou postando um codigo fonte de exemplo em C de busca binária. O código pode ser baixado [AQUI](https://angelitomg.github.io/downloads/busca_binaria.c).
 
 Até a próxima 😉

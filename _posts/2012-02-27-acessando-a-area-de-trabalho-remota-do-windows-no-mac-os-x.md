@@ -22,10 +22,10 @@ Para isto, você deve instalá-lo no Mac. Siga os seguintes passos:
 2. Instale o aplicativo normalmente no seu Mac.
 3. Após isto, basta clicar no ícone do aplicativo para abri-lo.
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/02/rdc_mac1.png "rdc_mac1")](http://angelitomg.com/blog/wp-content/uploads/2012/02/rdc_mac1.png)
+[![](http://angelitomg.github.io/wp-content/uploads/2012/02/rdc_mac1.png "rdc_mac1")](http://angelitomg.github.io/wp-content/uploads/2012/02/rdc_mac1.png)
 
 Após aberto, basta digitar o endereço do computador a qual deseja acessar, digitar suas credenciais e pronto, você estará conectado!
 
-[![](http://angelitomg.com/blog/wp-content/uploads/2012/02/rdc_mac2.png "rdc_mac2")](http://angelitomg.com/blog/wp-content/uploads/2012/02/rdc_mac2.png)
+[![](http://angelitomg.github.io/wp-content/uploads/2012/02/rdc_mac2.png "rdc_mac2")](http://angelitomg.github.io/wp-content/uploads/2012/02/rdc_mac2.png)
 
 Até a próxima 😉

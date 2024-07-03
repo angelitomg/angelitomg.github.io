@@ -18,7 +18,7 @@ tags:
     - programação
 ---
 
-[![cakephp_logo](http://angelitomg.com/blog/wp-content/uploads/2012/12/cakephp_logo_250_trans.png)](http://angelitomg.com/blog/wp-content/uploads/2012/12/cakephp_logo_250_trans.png)Neste pequeno tutorial vou mostrar como criar um sistema CRUD (Create, Read, Update, Delete) utilizando a ferramenta **bake** disponível no framework [CakePHP](http://cakephp.org).
+[![cakephp_logo](http://angelitomg.github.io/wp-content/uploads/2012/12/cakephp_logo_250_trans.png)](http://angelitomg.github.io/wp-content/uploads/2012/12/cakephp_logo_250_trans.png)Neste pequeno tutorial vou mostrar como criar um sistema CRUD (Create, Read, Update, Delete) utilizando a ferramenta **bake** disponível no framework [CakePHP](http://cakephp.org).
 
 O [CakePHP ](http://cakephp.org)é um framework de desenvolvimento rápido para PHP. Já o **bake** é um utilitário presente no [CakePHP ](http://cakephp.org)capaz de gerar códigos de forma rápida, eliminando assim o trabalho <del>chato</del> árduo de criar CRUDs.
 
@@ -78,6 +78,6 @@ Após isto nosso sistema estará pronto. Vamos acessá-lo a através da URL: **h
 
 Será exibida a pagina de listagem dos produtos. A partir de agora poderemos criar nossos produtos e categorias livremente. Note que quando você for cadastrar um produto, irá existir um campo automaticamente para a seleção de uma categoria. Isto se deve ao relacionamento **belongsTo** definido no modelo.
 
-Os arquivos utilizados neste exemplo podem serem baixados [AQUI](https://angelitomg.com/downloads/crud_cakephp.zip).
+Os arquivos utilizados neste exemplo podem serem baixados [AQUI](https://angelitomg.github.io/downloads/crud_cakephp.zip).
 
 Até a próxima 😉

@@ -18,6 +18,6 @@ tags:
 
 Neste post trago a vocês um código fonte em C que exemplifica o conceito da estrutura de dados pilha. O arquivo possui funções para as duas operações básicas da pilha: **empilhar** e **desempilhar**. O código está todo comentado para facilitar o entendimento.
 
-O arquivo fonte pode ser baixado [AQUI](https://angelitomg.com/downloads/pilha.c).
+O arquivo fonte pode ser baixado [AQUI](https://angelitomg.github.io/downloads/pilha.c).
 
 Até a próxima 😉
