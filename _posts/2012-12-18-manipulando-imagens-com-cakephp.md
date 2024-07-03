@@ -68,7 +68,7 @@ Este método corta uma determinada área da imagem. Recebe um array como parâme
 
 **Exemplo:**
 
-` $this->Qimage->crop(array(<br></br>'w' => 400,<br></br>'h' => 300,<br></br>'x' => 100,<br></br>'y' => 100,<br></br>'file' => $file,<br></br>'output' => $path<br></br>));`
+` $this->Qimage->crop(array('w' => 400, 'h' => 300, 'x' => 100, 'y' => 100, 'file' => $file, 'output' => $path));`
 
 ### resize
 
