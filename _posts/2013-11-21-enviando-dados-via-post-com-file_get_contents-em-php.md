@@ -22,7 +22,7 @@ Para isto, basta utilizar o terceiro parâmetro da função. O terceiro parâmet
 
 Primeiro, vamos criar a query HTTP que será enviada por POST:
 
-` $dados = http_build_query(array('firstname' => 'John', 'lastname' => 'Doe'));`
+`$dados = http_build_query(array('firstname' => 'John', 'lastname' => 'Doe'));`
 
 Em seguida, vamos criar o stream de contexto que será passado como parâmetro para a função **file\_get\_contents()**:
 
