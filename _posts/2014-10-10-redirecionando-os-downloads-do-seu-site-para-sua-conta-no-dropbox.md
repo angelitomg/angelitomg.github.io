@@ -23,6 +23,6 @@ Por questões óbvias, escolhi a segunda opção 😛 . O Dropbox disponibiliza 
 
 Bastou então uma simples regrinha de reescrita de URL no meu arquivo **.htaccess** e tudo estava resolvido:
 
-` RewriteRule ^downloads/(.*) http://dl.dropbox.com/u/107471993/downloads/$1<br></br>`
+` RewriteRule ^downloads/(.*) http://dl.dropbox.com/u/107471993/downloads/$1`
 
 Até a próxima 😉

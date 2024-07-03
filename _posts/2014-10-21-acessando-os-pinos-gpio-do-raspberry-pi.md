@@ -23,7 +23,7 @@ O Raspberry Pi B rev 2, que é a versão que vamos utilizar como base, possui 26
 
 Para começar a trabalhar com os pinos GPIO, primeiramente precisamos inicializá-los. Para isto, em seu Raspberry Pi digite o seguinte comando (vamos supor que você esteja utilizando o Raspbian Wheezy):
 
-` sudo echo 27 > /sys/class/gpio/export<br></br>`
+` sudo echo 27 > /sys/class/gpio/export`
 
 Onde **27** é o número do pino que está sendo inicializado. No exemplo acima, estou inicializando o **GPIO27**. Após isto, será criado o diretório **/sys/class/gpio/gpio27**. Este diretório possui dois arquivos importantes: **direction** e **value**.
 
