@@ -6,16 +6,16 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Clear Cache Blog
-tagline:          'Web, code, miscellaneous'
+title:            Angelito Goulart
+tagline:          ''
 description:      ''
 url:              http://angelitomg.github.io
 
 author:
   name:           'Angelito M. Goulart'
-  url:            http://www.angelitomg.com
+  url:            
 
-paginate:         5
+paginate:         30
 
 # Custom vars
 version:          2.0.0
