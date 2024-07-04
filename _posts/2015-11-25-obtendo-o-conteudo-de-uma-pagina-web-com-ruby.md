@@ -15,7 +15,8 @@ tags:
 
 Uma tarefa simples e apenas 2 linhas de código:
 
-`require 'open-uri'<br></br>print open("http://www.angelitomg.com").read<br></br>`
+`require 'open-uri'`
+`print open("http://www.angelitomg.com").read`
 
 Com o código acima, você obtém e exibe o conteúdo da página **<http://www.angelitomg.com>** na tela. Funciona tanto em HTTP quanto em HTTPS. Simples assim!
 
