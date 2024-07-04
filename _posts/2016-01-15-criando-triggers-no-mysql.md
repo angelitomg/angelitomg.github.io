@@ -20,7 +20,15 @@ No exemplo de hoje, vamos imaginar que possuímos uma tabela chamada **registros
 
 O campo **alteracoes** irá conter o número de edições que o registro sofreu, ou seja, será incrementado a cada **UPDATE**. Para criar um gatilho que faça a atualização do campo **alteracoes** será necessário executar o seguinte comando:
 
-`DELIMITER #<br></br>CREATE TRIGGER `registros.atualizar_alteracoes` BEFORE UPDATE ON registros<br></br>FOR EACH ROW BEGIN<br></br>SET NEW.alteracoes = NEW.alteracoes + 1;<br></br>END#<br></br>`
+`DELIMITER #` 
+
+`CREATE TRIGGER ```registros.atualizar_alteracoes``` BEFORE UPDATE ON registros`
+
+`FOR EACH ROW BEGIN` 
+
+`SET NEW.alteracoes = NEW.alteracoes + 1;` 
+
+`END#` 
 
 No comando acima, estamos informando que antes (**BEFORE**) de cada **UPDATE** na tabela **registros** o campo **alteracoes** deverá ser incrementado. Também seria possível definir que o gatilho fosse executado após o comando SQL, para isto, seria necessário utilizar a palavra **AFTER** ao invés de **BEFORE**.
 
