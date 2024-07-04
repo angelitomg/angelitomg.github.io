@@ -88,7 +88,7 @@ Se somente a altura ou a largura for informada, o método calculará automaticam
 
 **Exemplo:**
 
-`$this->Qimage->resize(array('width' => 240, 'file' => '/img/img1.jpg', 'output' => '/img/thumbs/'));`
+` $this->Qimage->resize(array('width' => 240, 'file' => '/img/img1.jpg', 'output' => '/img/thumbs/'));`
 
 O download do componente pode ser feito [AQUI](https://angelitomg.github.io/downloads/QimageComponent.zip).
 
