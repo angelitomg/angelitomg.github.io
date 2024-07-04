@@ -15,7 +15,8 @@ tags:
 
 Se você já viu algum script de linha de comando no mundo \*nix, provavelmente já se deparou com a combinação de um sustenido e um ponto de exclamação no início do script. Algo parecido com isso:
 
-`#!/bin/bash<br></br>echo "Alo Mundo!"<br></br>`
+`#!/bin/bash`
+`echo "Alo Mundo!"`
 
 Esta combinação de caracteres chama-se **shebang** e sua utilidade é informar ao sistema qual interpretador deve ser utilizado para executar o script.
 

@@ -18,7 +18,12 @@ O **/dev/null** é um dispositivo (em forma de arquivo) presente em sistemas Uni
 
 Vamos a um exemplo prático:
 
-`<br></br>#!/bin/bash<br></br>if ls -l dir1/* &> /dev/null<br></br>then<br></br>echo "Existem arquivos."<br></br>else<br></br>echo "Não existem arquivos."<br></br>fi<br></br>`
+`#!/bin/bash`
+`if ls -l dir1/* &> /dev/null then`
+`echo "Existem arquivos."`
+`else`
+`echo "Não existem arquivos."`
+`fi`
 
 O script acima verifica através do comando **ls -l dir1/\*** se existe algum arquivo no diretório **dir1**. Se o script fosse executado sem a instrução **&amp;&gt; /dev/null** a saída do comando **ls** seria exibida na tela.
 
