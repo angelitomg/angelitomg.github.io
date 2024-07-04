@@ -20,7 +20,21 @@ Classes anônimas é um recurso introduzido no PHP 7 que permite ao desenvolvedo
 
 Como sempre, nada melhor que um exemplo:
 
-`<?php<br></br>var_dump(new class {<br></br>public $bar = 'test';<br></br>public function foo(){<br></br>return $this->bar;<br></br>}<br></br>});<br></br>?><br></br>`
+`<?php` 
+
+`var_dump(new class {` 
+
+`public $bar = 'test';` 
+
+`public function foo(){` 
+
+`return $this->bar;` 
+
+`}` 
+
+`});` 
+
+`?>` 
 
 No código acima, estamos criando um classe diretamente na chamada da função **var\_dump**, dinamicamente, sem a necessidade de instanciar um objeto.
 

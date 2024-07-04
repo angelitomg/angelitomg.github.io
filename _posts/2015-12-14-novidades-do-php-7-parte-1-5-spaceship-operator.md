@@ -24,7 +24,13 @@ O spaceship operator tem um funcionamento bastante semelhante do da função [st
 
 Um exemplo prático:
 
-`<?php<br></br> echo 1 <=> 2; // Retorna -1<br></br>echo 1 <=> 1; // Retorna 0<br></br>echo 2 <=> 1; // Retorna 1<br></br>?><br></br>`
+`<?php echo 1 <=> 2; // Retorna -1` 
+
+`echo 1 <=> 1; // Retorna 0` 
+
+`echo 2 <=> 1; // Retorna 1<br></br>` 
+
+`?>` 
 
 No [próximo post](http://angelitomg.com/blog/novidades-do-php-7-parte-2-5-scalar-type-hints/) vou falar sobre **Scalar Type Hints**.
 

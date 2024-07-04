@@ -22,7 +22,17 @@ No PHP 5, isto já era possível, porém funcionava apenas com arrays e objetos.
 
 Vamos a um exemplo prático:
 
-`<?php<br></br>declare(strict_types=1);<br></br>function foo(string $bar){<br></br>echo 'Bar: ' . $bar;<br></br>}<br></br>foo(0.2);<br></br>?>`
+`<?php declare(strict_types=1);` 
+
+`function foo(string $bar){` 
+
+`echo 'Bar: ' . $bar;` 
+
+`}` 
+
+`foo(0.2);` 
+
+`?>` 
 
 Na primeira linha, estamos informando que o PHP deve executar a verificação de tipos, ou seja, deve reclamar caso algum parâmetro ou retorno de função esteja retornando algo diferente do esperado.
 
