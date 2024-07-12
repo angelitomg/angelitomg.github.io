@@ -4,7 +4,7 @@ title: 'Hello World Com Docker e PHP'
 date: '2024-07-12T16:20:00-03:00'
 author: Angelito
 layout: post
-guid: ''
+guid: 'http://angelitomg.com/blog/?p=1390'
 permalink: /hello-world-com-docker-e-php/
 categories:
     - Docker

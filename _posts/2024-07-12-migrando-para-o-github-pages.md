@@ -4,7 +4,7 @@ title: 'Migrando Para o Github Pages'
 date: '2024-07-12T16:20:00-03:00'
 author: Angelito
 layout: post
-guid: ''
+guid: 'http://angelitomg.com/blog/?p=1389'
 permalink: /migrando-para-o-github-pages/
 categories:
     - Github
